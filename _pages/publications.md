@@ -6,7 +6,7 @@ redirect_from:
   - /publications.html
 ---
 
-<div style="text-align: justify"> 
+<p style="text-align: justify"> 
 The full list of my papers can be found on my [Google Scholar](https://scholar.google.com/citations?user=g9cZ9XsAAAAJ). Here are some selected papers: 
 
 (*: Corresponding authors; +: Equal contribution)
@@ -35,4 +35,4 @@ The full list of my papers can be found on my [Google Scholar](https://scholar.g
 - Ziheng Jiao, **Hongyuan Zhang**, Rui Zhang, and Xuelong Li, "Graph Manifold Learning with Non-Gradient Decision Layer", *Neurocomputing*, 2024. 
 - Rui Zhang, Xuelong Li, Qi Wang, and **Hongyuan Zhang**, "Autoencoder Constrained Clustering With Adaptive Neighbors", *IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)*, vol. 32, no. 1, pp. 443--449, 2021. 
 
- </div>
+ </p>
