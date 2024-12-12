@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 The full list of my papers can be found on my [Google Scholar](https://scholar.google.com/citations?user=g9cZ9XsAAAAJ). Here are some selected papers: 
+
 (*: Corresponding authors; +: Equal contribution)
 
 - **Hongyuan Zhang**, Yanan Zhu, and Xuelong Li, "Decouple Graph Neural Networks: Train Multiple Simple GNNs Simultaneously Instead of One", ***IEEE Transactions on Pattern Analysis and Machine Intelligence (<font color=red>T-PAMI</font>)***, vol. 46, no. 11, pp. 7451--7462, 2024. 
@@ -18,10 +19,10 @@ The full list of my papers can be found on my [Google Scholar](https://scholar.g
 - **Hongyuan Zhang** and Xuelong Li, "Discretize Relaxed Solution of Spectral Clustering via A Non-Heuristic Algorithm", *IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)*, vol. 35, no. 12, pp. 17965--17972, 2023.  
 - **Hongyuan Zhang**, Ziheng Jiao, and Xuelong Li, "Orthogonal Subspace Exploration for Matrix Completion", *Pattern Recognition*, vol. 153, pp. 110456, 2024. 
 - **Hongyuan Zhang**, Rui Zhang, Xuelong Li, and Yueshen Xu, "Robust Multi-View Fuzzy Clustering via Softmin", *Neurocomputing*, vol. 458, pp. 47--55, 2021. 
-- Sida Huang, **Hongyuan Zhang**$^*$, and Xuelong Li$^*$, "Enhance Vision-Language Alignment with Noise", in *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2025. 
-- Yanchen Xu, Siqi Huang, **Hongyuan Zhang**$^*$, and Xuelong Li$^*$, "Why Does Dropping Edges Usually Outperform Adding Edges in Graph Contrastive Learning?", in *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2025. 
-- Ziheng Jiao, **Hongyuan Zhang**$^*$, and Xuelong Li$^*$, "CNN to GNN: Unsupervised Multi-level Knowledge Learning", in *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, 2024. 
-- Ziheng Jiao$^+$, **Hongyuan Zhang**$^+$, and Xuelong Li, "Learn Topological Representation with Flexible Manifold Layer", in *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023. 
+- Sida Huang, **Hongyuan Zhang**<sup>\*</sup>, and Xuelong Li<sup>\*</sup>, "Enhance Vision-Language Alignment with Noise", in *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2025. 
+- Yanchen Xu, Siqi Huang, **Hongyuan Zhang**<sup>\*</sup>, and Xuelong Li<sup>\*</sup>, "Why Does Dropping Edges Usually Outperform Adding Edges in Graph Contrastive Learning?", in *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2025. 
+- Ziheng Jiao, **Hongyuan Zhang**<sup>\*</sup>, and Xuelong Li<sup>\*</sup>, "CNN to GNN: Unsupervised Multi-level Knowledge Learning", in *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, 2024. 
+- Ziheng Jiao<sup>+</sup>, **Hongyuan Zhang**<sup>+</sup>, and Xuelong Li, "Learn Topological Representation with Flexible Manifold Layer", in *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023. 
 - Rui Zhang, **Hongyuan Zhang**, and Xuelong Li, "Robust Multi-Task Learning with Flexible Manifold Constraint", ***IEEE Transactions on Pattern Analysis and Machine Intelligence (<font color=red>T-PAMI</font>)***, vol. 43, no. 6, pp. 2150--2157, 2021. 
 - Rui Zhang, **Hongyuan Zhang**, and Xuelong Li, "Maximum Joint Probability With Multiple Representations for Clustering", *IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)*, vol. 33, no. 9, pp. 4300--4310, 2022.
 - Rui Zhang, **Hongyuan Zhang**, and Xuelong Li, "Unsupervised Feature Selection With Extended OLSDA via Embedding Nonnegative Manifold Structure", *IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)*, vol. 33, no. 5, pp. 2274--2280, 2022. 
