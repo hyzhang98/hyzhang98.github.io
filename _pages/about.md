@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Fellow at The University of Hong Kong (working with Prof. [Ping Luo][https://scholar.google.com/citations?user=aXdjxb4AAAAJ]) and a research scientist at Institute of Artificial Intelligence (TeleAI), China Telecom. I received my Ph.D. degree from Northwestern Polytechnical University in 2024 under the supervision of Prof. [Xuelong Li][https://scholar.google.com/citations?user=ahUibskAAAAJ]. My research interests include graph representation learning, noise learning, multimodal learning, generative models, and embodied AI. 
+I am currently a Postdoctoral Fellow at The University of Hong Kong (working with Prof. [Ping Luo](https://scholar.google.com/citations?user=aXdjxb4AAAAJ)) and a research scientist at Institute of Artificial Intelligence (TeleAI), China Telecom. I received my Ph.D. degree from Northwestern Polytechnical University in 2024 under the supervision of Prof. [Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ). My research interests include graph representation learning, noise learning, multimodal learning, generative models, and embodied AI. 
 
 We are hiring researchers / research engineers / interns. If you are interested in joining us at TeleAI, please send your CV to me (hyzhang98@gmail.com). If you are interested in our joint Ph.D. programmes (for 2026), please feel free to contact me.  
