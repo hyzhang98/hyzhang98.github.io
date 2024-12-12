@@ -6,12 +6,13 @@ redirect_from:
   - /publications.html
 ---
 
+<div style="text-align: justify"> 
 The full list of my papers can be found on my [Google Scholar](https://scholar.google.com/citations?user=g9cZ9XsAAAAJ). Here are some selected papers: 
 
 (*: Corresponding authors; +: Equal contribution)
 
 - **Hongyuan Zhang**, Yanan Zhu, and Xuelong Li, "Decouple Graph Neural Networks: Train Multiple Simple GNNs Simultaneously Instead of One", ***IEEE Transactions on Pattern Analysis and Machine Intelligence (<font color=red>T-PAMI</font>)***, vol. 46, no. 11, pp. 7451--7462, 2024. 
-- **Hongyuan Zhang**, Jiankun Shi, Rui Zhang, and Xuelong Li, "Non-Graph Data Clustering via $\mathcal{O}(n)$ Bipartite Graph Convolution", ***IEEE Transactions on Pattern Analysis and Machine Intelligence (<font color=red>T-PAMI</font>)***, vol.45, no. 7, pp. 8729--8742, 2023.
+- **Hongyuan Zhang**, Jiankun Shi, Rui Zhang, and Xuelong Li, "Non-Graph Data Clustering via O(n) Bipartite Graph Convolution", ***IEEE Transactions on Pattern Analysis and Machine Intelligence (<font color=red>T-PAMI</font>)***, vol.45, no. 7, pp. 8729--8742, 2023.
 - Xuelong Li, **Hongyuan Zhang**, and Rui Zhang, "Adaptive Graph Auto-Encoder for General Data Clustering", ***IEEE Transactions on Pattern Analysis and Machine Intelligence (<font color=red>T-PAMI</font>)***, vol. 44, no. 12, pp. 9725--9732, 2022. 
 - Xuelong Li, **Hongyuan Zhang**, and Rui Zhang, "Matrix Completion via Non-Convex Relaxation and Adaptive Correlation Learning", ***IEEE Transactions on Pattern Analysis and Machine Intelligence (<font color=red>T-PAMI</font>)***, vol. 45, no. 2, pp. 1981--1991, 2023. 
 - **Hongyuan Zhang**, Yanan Zhu, and Xuelong Li, "Towards Projected Clustering with Aggregated Mapping", *IEEE Transactions on Image Processing (T-IP)*, vol. 32, pp. 4103--4113, 2023.  
@@ -33,3 +34,5 @@ The full list of my papers can be found on my [Google Scholar](https://scholar.g
 - Junying Wang, **Hongyuan Zhang**, Hongwei Wang, and Yuan Yuan, "Graph Convolutional Network with Self-Augmented Weights for Semi-Supervised Multi-View Learning", *IEEE Transactions on Neural Network and Learning Systems (T-NNLS)*, vol. 35, no. 9, pp. 12201--12210, 2024. 
 - Ziheng Jiao, **Hongyuan Zhang**, Rui Zhang, and Xuelong Li, "Graph Manifold Learning with Non-Gradient Decision Layer", *Neurocomputing*, 2024. 
 - Rui Zhang, Xuelong Li, Qi Wang, and **Hongyuan Zhang**, "Autoencoder Constrained Clustering With Adaptive Neighbors", *IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)*, vol. 32, no. 1, pp. 443--449, 2021. 
+
+ </div>
