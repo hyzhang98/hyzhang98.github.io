@@ -6,7 +6,6 @@ redirect_from:
   - /publications.html
 ---
 
-<p style="text-align: justify"> 
 The full list of my papers can be found on my [Google Scholar](https://scholar.google.com/citations?user=g9cZ9XsAAAAJ). Here are some selected papers: 
 
 (*: Corresponding authors; +: Equal contribution)
@@ -34,5 +33,3 @@ The full list of my papers can be found on my [Google Scholar](https://scholar.g
 - Junying Wang, **Hongyuan Zhang**, Hongwei Wang, and Yuan Yuan, "Graph Convolutional Network with Self-Augmented Weights for Semi-Supervised Multi-View Learning", *IEEE Transactions on Neural Network and Learning Systems (T-NNLS)*, vol. 35, no. 9, pp. 12201--12210, 2024. 
 - Ziheng Jiao, **Hongyuan Zhang**, Rui Zhang, and Xuelong Li, "Graph Manifold Learning with Non-Gradient Decision Layer", *Neurocomputing*, 2024. 
 - Rui Zhang, Xuelong Li, Qi Wang, and **Hongyuan Zhang**, "Autoencoder Constrained Clustering With Adaptive Neighbors", *IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)*, vol. 32, no. 1, pp. 443--449, 2021. 
-
- </p>
