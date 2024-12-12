@@ -6,8 +6,6 @@ redirect_from:
   - /service.html
 ---
 
-<div style="text-align: justify"> 
-
 ## Editor of Journal 
 
 - **(Executive) Guest Editor** of *Pattern Recognition* Special Issue on ``Beneficial Noise Learning''
@@ -52,5 +50,3 @@ redirect_from:
 - Artificial Intelligence Review
 - International Journal of Machine Learning and Cybernetics
 - Machine Vision and Applications 
-
- </div>
