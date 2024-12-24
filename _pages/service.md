@@ -12,6 +12,9 @@ redirect_from:
 - **Guest Editor** of *Remote Sensing* Special Issue on ``Advancements of Vision-Language Models (VLMs) in Remote Sensing''
 - **Associate Editor** of *Vicinagearth*
 
+## Organizer of Conference / Workshop
+- The 4th Anti-UAV Workshop \& Challenge on CVPR 2025
+
 ## Program Committee Member / Reviewer of Conference
 
 - International Conference on Machine Learning (ICML 22--25)
