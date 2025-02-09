@@ -15,7 +15,7 @@ My research interests include graph representation learning, noise learning, mul
 # News
 
 -   [Dec. 2024] One paper is accepted by TNNLS. 
--   [Dec. 2024] We will organize The 4th Anti-UAV Workshop \& Challenge on CVPR 2025. 
+-   [Dec. 2024] We will organize The 4th Anti-UAV Workshop & Challenge on CVPR 2025. 
 -   [Dec. 2024] Three papers were accepted by AAAI2025. 
 
 # Recruit
