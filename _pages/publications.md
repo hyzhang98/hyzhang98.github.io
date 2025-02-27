@@ -10,7 +10,9 @@ The full list of my papers can be found on my [Google Scholar](https://scholar.g
 
 (*: Corresponding authors; +: Equal contribution)
 
-- Ziheng Jiao, **Hongyuan Zhang**<sup>\*</sup>, and Xuelong Li<sup>\*</sup>, ``Deep Graph Multi-View Representation Learning with Self-Augmented Weight Fusion'', *IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)*, 2025.
+- Junying Wang, **Hongyuan Zhang**, and Yuan Yuan, "Adv-PCG: Facial Adversarial Attacks for Customized Portrait Generation", in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2025.
+- Tianxing Chen, Yao Mu, Zhixuan Liang, Zanxin Chen, Shijia Peng, Qiangyu Chen, Mingkun Xu, Ruizhen Hu, **Hongyuan Zhang**, Xuelong Li, and Ping Luo, "G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation", in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2025.
+- Ziheng Jiao, **Hongyuan Zhang**<sup>\*</sup>, and Xuelong Li<sup>\*</sup>, "Deep Graph Multi-View Representation Learning with Self-Augmented Weight Fusion", *IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**)*, 2025.
 - Sida Huang, **Hongyuan Zhang**<sup>\*</sup>, and Xuelong Li<sup>\*</sup>, "Enhance Vision-Language Alignment with Noise", in *Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)*, 2025. 
 - Yanchen Xu, Siqi Huang, **Hongyuan Zhang**<sup>\*</sup>, and Xuelong Li<sup>\*</sup>, "Why Does Dropping Edges Usually Outperform Adding Edges in Graph Contrastive Learning?", in *Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)*, 2025. 
 - Yujun Li, **Hongyuan Zhang**, and Yuan Yuan, "Edge Contrastive Learning: An Augmentation-Free Graph Contrastive Learning Model", in *Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)*, 2025. 
