@@ -10,13 +10,14 @@ redirect_from:
 
 I am currently a Postdoctoral Fellow at The University of Hong Kong (working with Prof. [Ping Luo](https://scholar.google.com/citations?user=aXdjxb4AAAAJ)) and a Research Scientist at Institute of Artificial Intelligence (TeleAI), China Telecom. I received my Ph.D. degree from Northwestern Polytechnical University under the supervision of Prof. [Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ) and my B.Eng. degree from Xidian University. 
 
-My research interests include graph representation learning, noise learning, multimodal learning, generative models, and embodied AI. 
+My research interests include representation learning, noise learning, multimodal learning, generative models, and embodied AI. 
 
 # News
 
+-   [Feb. 2025] Two papers are accepted by CVPR2025. 
 -   [Dec. 2024] One paper is accepted by TNNLS. 
 -   [Dec. 2024] We will organize The 4th Anti-UAV Workshop & Challenge on CVPR 2025. 
--   [Dec. 2024] Three papers were accepted by AAAI2025. 
+-   [Dec. 2024] Three papers are accepted by AAAI2025. 
 
 # Recruit
 
