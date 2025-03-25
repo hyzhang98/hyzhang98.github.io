@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-I am currently a Postdoctoral Fellow at The University of Hong Kong (working with Prof. [Ping Luo](https://scholar.google.com/citations?user=aXdjxb4AAAAJ)) and a Research Scientist at Institute of Artificial Intelligence (TeleAI), China Telecom. I received my Ph.D. degree from Northwestern Polytechnical University under the supervision of Prof. [Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ) and my B.Eng. degree from Xidian University. 
+I am currently a Postdoctoral Fellow at The University of Hong Kong (working with Prof. [Ping Luo](https://scholar.google.com/citations?user=aXdjxb4AAAAJ)) and a Principal Investigator at Institute of Artificial Intelligence (TeleAI), China Telecom. I received my Ph.D. degree from Northwestern Polytechnical University under the supervision of Prof. [Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ) and my B.Eng. degree from Xidian University. 
 
 My research interests include representation learning, noise learning, multimodal learning, generative models, and embodied AI. 
 
