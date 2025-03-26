@@ -8,6 +8,8 @@ redirect_from:
 
 ## Editor of Journal 
 
+- **Associate Editor** of *IEEE Transactions on Fuzzy Systems*
+- **Associate Editor** of *Pattern Recognition*
 - **(Executive) Guest Editor** of *Pattern Recognition* Special Issue on ``Beneficial Noise Learning''
 - **Guest Editor** of *Remote Sensing* Special Issue on ``Advancements of Vision-Language Models (VLMs) in Remote Sensing''
 - **Associate Editor** of *Vicinagearth*
