@@ -21,9 +21,9 @@ redirect_from:
 
 - International Conference on Machine Learning (ICML 22--25)
 - International Conference on Learning Representations (ICLR 23--25)
-- Annual Conference on Neural Information Processing Systems (NeurIPS 22--24)
+- Annual Conference on Neural Information Processing Systems (NeurIPS 22--25)
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 22--25)
-- IEEE/CVF International Conference on Computer Vision (ICCV23)
+- IEEE/CVF International Conference on Computer Vision (ICCV 23&25)
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD 25&24&22)
 - The Web Conference (WWW25) Graph Track
 - The Web Conference (WWW25) Short Paper Track
@@ -31,7 +31,7 @@ redirect_from:
 - AAAI 2025 Senior Member Presentation Track (AAAI25-SMT)
 - International Joint Conference on Artificial Intelligence (IJCAI 22--25)
 - European Conference on Computer Vision (ECCV24 & ECCV22)
-- ACM Multimedia (MM24)
+- ACM Multimedia (MM 24--25)
 - International Conference on Artificial Intelligence and Statistics (AISTATS25)
 - Asian Conference on Computer Vision (ACCV24)
 - IEEE International Conference on Data Mining (ICDM23)
@@ -42,6 +42,8 @@ redirect_from:
 - International Joint Conference on Neural Networks (IJCNN25)
 - IEEE International Workshop on Machine Learning for Signal Processing (MLSP 23--24)
 
+
+
 ## Reviewer of Journal
 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
@@ -50,6 +52,7 @@ redirect_from:
 - IEEE Transactions on Emerging Topics in Computational Intelligence (T-ETCI)
 - IEEE/CAA Journal of Automatica Sinica
 - ACM Transactions on Knowledge Discovery from Data (TKDD)
+- Engineering Applications of Artificial Intelligence
 - Pattern Recognition
 - Neural Networks 
 - Artificial Intelligence Review
