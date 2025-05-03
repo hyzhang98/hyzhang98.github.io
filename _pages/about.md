@@ -14,6 +14,7 @@ My research interests include representation learning, noise learning, multimoda
 
 # News
 
+-   [May 2025] One paper is accepted by ICML2025. 
 -   [Feb. 2025] Two papers are accepted by CVPR2025. 
 -   [Dec. 2024] One paper is accepted by TNNLS. 
 -   [Dec. 2024] We will organize The 4th Anti-UAV Workshop & Challenge on CVPR 2025. 
