@@ -10,6 +10,7 @@ The full list of my papers can be found on my [Google Scholar](https://scholar.g
 
 (*: Corresponding authors; +: Equal contribution)
 
+- Mengkang Hu, Tianxing Chen, Yude Zou, Yuheng Lei, Qiguang Chen, Ming Li, Qiwei Liang, Yao Mu, **Hongyuan Zhang**, Wenqi Shao, and Ping Luo "Text2World: Benchmarking Large Language Models for Symbolic World Model Generation," ACL Findings, 2025. 
 - Siqi Huang, Yanchen Xu, **Hongyuan Zhang**<sup>\*</sup>, and Xuelong Li<sup>\*</sup>, "Learn Positive-incentive Noise As Graph Augmentation," in *International Conference on Machine Learning (**ICML**)*, 2025.
 - Junying Wang, **Hongyuan Zhang**, and Yuan Yuan, "Adv-PCG: Facial Adversarial Attacks for Customized Portrait Generation", in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, oral,2025. (***~3.3%** of the accepted papers*)
 - Tianxing Chen, Yao Mu, Zhixuan Liang, Zanxin Chen, Shijia Peng, Qiangyu Chen, Mingkun Xu, Ruizhen Hu, **Hongyuan Zhang**, Xuelong Li, and Ping Luo, "G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation", in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2025.
