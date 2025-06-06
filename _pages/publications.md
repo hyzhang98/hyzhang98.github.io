@@ -10,7 +10,7 @@ The full list of my papers can be found on my [Google Scholar](https://scholar.g
 
 (*: Corresponding authors; +: Equal contribution)
 
-- **Hongyuan Zhang**, Sida Huang, and Xuelong Li, "Variational Positive-incentive Noise: How Noise Benefits Models," *IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color=red>T-PAMI</font>**)*, 2025.
+- **Hongyuan Zhang**, Sida Huang, Yubin Guo, and Xuelong Li, "Variational Positive-incentive Noise: How Noise Benefits Models," *IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color=red>T-PAMI</font>**)*, 2025.
 - Mengkang Hu, Tianxing Chen, Yude Zou, Yuheng Lei, Qiguang Chen, Ming Li, Qiwei Liang, Yao Mu, **Hongyuan Zhang**, Wenqi Shao, and Ping Luo "Text2World: Benchmarking Large Language Models for Symbolic World Model Generation," ACL Findings, 2025. 
 - Siqi Huang, Yanchen Xu, **Hongyuan Zhang**<sup>\*</sup>, and Xuelong Li<sup>\*</sup>, "Learn Positive-incentive Noise As Graph Augmentation," in *International Conference on Machine Learning (**ICML**)*, 2025.
 - Junying Wang, **Hongyuan Zhang**, and Yuan Yuan, "Adv-PCG: Facial Adversarial Attacks for Customized Portrait Generation", in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, oral,2025. (***~3.3%** of the accepted papers*)
