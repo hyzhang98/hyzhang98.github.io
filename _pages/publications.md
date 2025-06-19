@@ -10,6 +10,7 @@ The full list of my papers can be found on my [Google Scholar](https://scholar.g
 
 (*: Corresponding authors; +: Equal contribution)
 
+- Ziheng Jiao, **Hongyuan Zhang**<sup>\*</sup>, and Xuelong Li<sup>\*</sup>, "CNN2GNN: How to Bridge CNN with GNN," *IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color=red>T-PAMI</font>**)*, 2025.
 - **Hongyuan Zhang**, Sida Huang, Yubin Guo, and Xuelong Li, "Variational Positive-incentive Noise: How Noise Benefits Models," *IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color=red>T-PAMI</font>**)*, 2025.
 - Mengkang Hu, Tianxing Chen, Yude Zou, Yuheng Lei, Qiguang Chen, Ming Li, Qiwei Liang, Yao Mu, **Hongyuan Zhang**, Wenqi Shao, and Ping Luo "Text2World: Benchmarking Large Language Models for Symbolic World Model Generation," ACL Findings, 2025. 
 - Siqi Huang, Yanchen Xu, **Hongyuan Zhang**<sup>\*</sup>, and Xuelong Li<sup>\*</sup>, "Learn Positive-incentive Noise As Graph Augmentation," in *International Conference on Machine Learning (**ICML**)*, 2025.
