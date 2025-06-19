@@ -14,6 +14,7 @@ My research interests include representation learning, noise learning, multimoda
 
 # News
 
+-   [Jun. 2025] One paper is accepted by TPAMI. 
 -   [May 2025] One paper is accepted by TPAMI. 
 -   [May 2025] One paper is accepted by ACL 2025 Findings. 
 -   [May 2025] One paper is accepted by ICML2025. 
