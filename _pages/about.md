@@ -14,6 +14,8 @@ My research interests include representation learning, noise learning, multimoda
 
 # News
 
+-   [Jul. 2025] One paper is accepted by Pattern Recognition Letters. 
+-   [Jul. 2025] One paper is accepted by TITS.   
 -   [Jun. 2025] One paper is accepted by TPAMI. 
 -   [May 2025] One paper is accepted by TPAMI. 
 -   [May 2025] One paper is accepted by ACL 2025 Findings. 
@@ -30,6 +32,6 @@ My research interests include representation learning, noise learning, multimoda
 
 # <b><font color=blue>Call for Paper</font></b> 
 
--   We are organizing a special issue, **Beneficial Noise Learning**, on **Pattern Recognition** (Impact Factor > 7), where I'm the Executive Guest Editor. The homepage is [here](https://www.sciencedirect.com/special-issue/316469/beneficial-noise-learning). Welcome to submit your manuscripts about noise (such as diffusion models, flow-based models, adversarial models, noisy labels, uncertainty, label smoothing, etc.) to our special issue. If you have any questions about our special issues, please feel free to contact me (hyzh98@hku.hk). 
+-   <s>We are organizing a special issue, **Beneficial Noise Learning**, on **Pattern Recognition** (Impact Factor > 7), where I'm the Executive Guest Editor. The homepage is [here](https://www.sciencedirect.com/special-issue/316469/beneficial-noise-learning). Welcome to submit your manuscripts about noise (such as diffusion models, flow-based models, adversarial models, noisy labels, uncertainty, label smoothing, etc.) to our special issue. If you have any questions about our special issues, please feel free to contact me (hyzh98@hku.hk). </s>
 
 
