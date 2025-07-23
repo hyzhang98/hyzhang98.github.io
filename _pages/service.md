@@ -28,7 +28,11 @@ redirect_from:
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD 25&24&22)
 - The Web Conference (WWW25) Graph Track
 - The Web Conference (WWW25) Short Paper Track
+<<<<<<< HEAD
 - AAAI Conference on Artificial Intelligence (AAAI22 & AAAI24--26)
+=======
+- AAAI Conference on Artificial Intelligence (AAAI 22 & AAAI24--26)
+>>>>>>> 404fecc52983589927e0d012f409187c523cf3cd
 - AAAI 2025 Senior Member Presentation Track (AAAI25-SMT)
 - International Joint Conference on Artificial Intelligence (IJCAI 22--25)
 - European Conference on Computer Vision (ECCV24 & ECCV22)
@@ -36,7 +40,7 @@ redirect_from:
 - International Conference on Artificial Intelligence and Statistics (AISTATS25)
 - IEEE/CVF Winter Conference on Applications of Computer Vision (WACV26)
 - Asian Conference on Computer Vision (ACCV24)
-- IEEE International Conference on Data Mining (ICDM23)
+- IEEE International Conference on Data Mining (ICDM25)
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 23--25)
 - International Conference on Multimedia Retrieval (ICMR22)
 - European Conference on Artificial Intelligence (ECAI23)
