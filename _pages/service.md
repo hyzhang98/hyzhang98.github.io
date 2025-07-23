@@ -11,6 +11,7 @@ redirect_from:
 - **Associate Editor** of *IEEE Transactions on Fuzzy Systems*
 - **Associate Editor** of *Pattern Recognition*
 - **(Executive) Guest Editor** of *Pattern Recognition* Special Issue on ``Beneficial Noise Learning''
+- **(Executive) Guest Editor** of *Pattern Recognition* Special Issue on ``Spatial Embodied Intelligence of Unmanned Systems in Open Urban Environments''
 - **Guest Editor** of *Remote Sensing* Special Issue on ``Advancements of Vision-Language Models (VLMs) in Remote Sensing''
 - **Associate Editor** of *Vicinagearth*
 
@@ -27,12 +28,13 @@ redirect_from:
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD 25&24&22)
 - The Web Conference (WWW25) Graph Track
 - The Web Conference (WWW25) Short Paper Track
-- AAAI Conference on Artificial Intelligence (AAAI25 & AAAI24 & AAAI22)
+- AAAI Conference on Artificial Intelligence (AAAI22 & AAAI24--26)
 - AAAI 2025 Senior Member Presentation Track (AAAI25-SMT)
 - International Joint Conference on Artificial Intelligence (IJCAI 22--25)
 - European Conference on Computer Vision (ECCV24 & ECCV22)
 - ACM Multimedia (MM 24--25)
 - International Conference on Artificial Intelligence and Statistics (AISTATS25)
+- IEEE/CVF Winter Conference on Applications of Computer Vision (WACV26)
 - Asian Conference on Computer Vision (ACCV24)
 - IEEE International Conference on Data Mining (ICDM23)
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 23--25)

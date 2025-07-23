@@ -31,7 +31,8 @@ My research interests include representation learning, noise learning, multimoda
 -   We are hiring researchers / research engineers / interns. If you are interested in joining us at TeleAI, please send your CV to me (hyzhang98@gmail.com). 
 
 # <b><font color=blue>Call for Paper</font></b> 
+-   We are organizing a special issue, **Spatial Embodied Intelligence of Unmanned Systems in Open Urban Environments**, on **Pattern Recognition** (Impact Factor > 7), where I'm the **Executive Guest Editor**.  Welcome to submit your manuscripts about Embodied AI to our special issue. If you have any questions about our special issues, please feel free to contact me (hyzhang98@gmail.com). 
 
--   <s>We are organizing a special issue, **Beneficial Noise Learning**, on **Pattern Recognition** (Impact Factor > 7), where I'm the Executive Guest Editor. The homepage is [here](https://www.sciencedirect.com/special-issue/316469/beneficial-noise-learning). Welcome to submit your manuscripts about noise (such as diffusion models, flow-based models, adversarial models, noisy labels, uncertainty, label smoothing, etc.) to our special issue. If you have any questions about our special issues, please feel free to contact me (hyzh98@hku.hk). </s>
+-   <s>We are organizing a special issue, **Beneficial Noise Learning**, on **Pattern Recognition** (Impact Factor > 7), where I'm the Executive Guest Editor. The homepage is [here](https://www.sciencedirect.com/special-issue/316469/beneficial-noise-learning). Welcome to submit your manuscripts about noise (such as diffusion models, flow-based models, adversarial models, noisy labels, uncertainty, label smoothing, etc.) to our special issue. If you have any questions about our special issues, please feel free to contact me (hyzhang98@gmail.com). </s>
 
 
