@@ -12,6 +12,7 @@ My research interests include representation learning, noise learning, multimoda
 
 # News
 
+- [Sep. 2025] Two papers are accepted by NeurIPS. 
 - [Jul. 2025] One paper is accepted by Pattern Recognition Letters.
 - [Jul. 2025] One paper is accepted by TITS.
 - [Jun. 2025] One paper is accepted by TPAMI.

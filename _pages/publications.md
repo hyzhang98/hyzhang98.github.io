@@ -10,7 +10,9 @@ The full list of my papers can be found on my [Google Scholar](https://scholar.g
 
 (*: Corresponding authors; +: Equal contribution)
 
-- Jiquan Shan, Junxiao Wang, Lifeng Zhao, Liang Cai, **Hongyuan Zhang**, and Ioannis Liritzis, “AnchorFormer: Differentiable Anchor Attention for Efficient Vision Transformer,” *Pattern Recognition Letters*, 2025.
+- Kai Jiang, Zhengyan Shi, Dell Zhang, **Hongyuan Zhang**<sup>\*</sup>, and Xuelong Li<sup>\*</sup>, "MiN: Mixture of Noise for Pre-Trained Model-Based Class-Incremental Learning," in *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**)*, 2025.
+- Zhihao Huang, Xi Qiu, Yukuo Ma, Yifu Zhou, **Hongyuan Zhang**<sup>\*</sup>, Chi Zhang<sup>\*</sup>, and Xuelong Li<sup>\*</sup>, "NFIG: Multi-Scale Autoregressive Image Generation via Frequency Ordering," in *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**)*, 2025.
+- Jiquan Shan, Junxiao Wang, Lifeng Zhao, Liang Cai, **Hongyuan Zhang**, and Ioannis Liritzis, "AnchorFormer: Differentiable Anchor Attention for Efficient Vision Transformer," *Pattern Recognition Letters*, 2025.
 - Chuang Yang, Xu Han, Tao Han, Yuejiao Su, Junyu Gao, **Hongyuan Zhang**, Yi Wang, and Lap-Pui Chau, "SignEye: Traffic Sign Interpretation from Vehicle First-Person View," *IEEE Transactions on Intelligent Transportation Systems(T-ITS)*, 2025.
 - Ziheng Jiao, **Hongyuan Zhang**<sup>\*</sup>, and Xuelong Li<sup>\*</sup>, "CNN2GNN: How to Bridge CNN with GNN," *IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color=red>T-PAMI</font>**)*, 2025.
 - **Hongyuan Zhang**, Sida Huang, Yubin Guo, and Xuelong Li, "Variational Positive-incentive Noise: How Noise Benefits Models," *IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color=red>T-PAMI</font>**)*, 2025.
