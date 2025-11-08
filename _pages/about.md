@@ -12,17 +12,18 @@ My research interests include representation learning, noise learning, multimoda
 
 # News
 
-- [Sep. 2025] Two papers are accepted by NeurIPS. 
+- [Nov. 2025] Four papers (oral $\times$ 2) are accepted by AAAI-2026. 
+- [Sep. 2025] Two papers are accepted by NeurIPS-2025. 
 - [Jul. 2025] One paper is accepted by Pattern Recognition Letters.
 - [Jul. 2025] One paper is accepted by TITS.
 - [Jun. 2025] One paper is accepted by TPAMI.
 - [May 2025] One paper is accepted by TPAMI.
-- [May 2025] One paper is accepted by ACL 2025 Findings.
-- [May 2025] One paper is accepted by ICML2025.
-- [Feb. 2025] Two papers are accepted by CVPR2025.
+- [May 2025] One paper is accepted by ACL-2025 Findings.
+- [May 2025] One paper is accepted by ICML-2025.
+- [Feb. 2025] Two papers are accepted by CVPR-2025.
 - [Dec. 2024] One paper is accepted by TNNLS.
-- [Dec. 2024] We will organize The 4th Anti-UAV Workshop & Challenge on CVPR 2025.
-- [Dec. 2024] Three papers are accepted by AAAI2025.
+- [Dec. 2024] We will organize The 4th Anti-UAV Workshop & Challenge on CVPR-2025.
+- [Dec. 2024] Three papers are accepted by AAAI-2025.
 
 # Recruit
 
