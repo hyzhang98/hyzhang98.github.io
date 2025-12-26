@@ -11,9 +11,10 @@ redirect_from:
 - **Associate Editor** of *IEEE Transactions on Fuzzy Systems*
 - **Associate Editor** of *Pattern Recognition*
 - **Associate Editor** of *Neurocomputing*
-- **Executive Guest Editor** of *Pattern Recognition* Special Issue on ``Beneficial Noise Learning''
-- **Executive Guest Editor** of *Pattern Recognition* Special Issue on ``Spatial Embodied Intelligence of Unmanned Systems in Open Urban Environments''
-- **Executive Guest Editor** of *Neurocomputing* Special Issue on ``Positive Noise Learning''
+- **Executive Guest Editor** of *Pattern Recognition* Special Issue on "Beneficial Noise Learning"
+- **Executive Guest Editor** of *Pattern Recognition* Special Issue on "Spatial Embodied Intelligence of Unmanned Systems in Open Urban Environments"
+- **Executive Guest Editor** of *Neurocomputing* Special Issue on "Positive Noise Learning"
+- **Executive Guest Editor** of *Signal Processing* Special Issue on "Beneficial Noise Processing in Multimodal Signal Processing"
 - **Guest Editor** of *Remote Sensing* Special Issue on ``Advancements of Vision-Language Models (VLMs) in Remote Sensing''
 - **Associate Editor** of *Vicinagearth*
 
