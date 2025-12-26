@@ -9,7 +9,7 @@ The full list of my papers can be found on my [Google Scholar](https://scholar.g
 
 (*: Corresponding authors; +: Equal contribution)
 
-- Zhenyu Gu, Yanchen Xu, Sida Huang, Yubin Guo, and **Hongyuan Zhang** `<sup>`\*`</sup>`, "Rectified Noise: A Generative Model Using Positive-incentive Noise," in *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, `<font color=red>`oral `</font>`, 2026.
+- Zhenyu Gu, Yanchen Xu, Sida Huang, Yubin Guo, and **Hongyuan Zhang** `<sup>`\*`</sup>`, "Rectified Noise: A Generative Model Using Positive-incentive Noise," in *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, <font color=red>oral</font>, 2026.
 - Siqi Huang, Sida Huang, and **Hongyuan Zhang** `<sup>`\*`</sup>`, "CoLM: Collaborative Large Models via A Client-Server Paradigm," in *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, `<font color=red>`oral `</font>`, 2026.
 - Sida Huang, Siqi Huang, Ping Luo, and **Hongyuan Zhang** `<sup>`\*`</sup>`, "Laytrol: Preserving Pretrained Knowledge in Layout Control for Multimodal Diffusion Transformers," in *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2026.
 - Ruishu Zhu, Sida Huang, Ziheng Jiao, and **Hongyuan Zhang** `<sup>`\*`</sup>`, "Explore How To Inject Beneficial Noise in MLLMs," in *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2026.
