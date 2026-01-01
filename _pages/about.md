@@ -27,7 +27,7 @@ My research interests include representation learning, noise learning, multimoda
 
 # Recruit
 
-- If you are interested in our **joint Ph.D. programmes** at TeleAI (for 2026), please feel free to contact me (hyzhang98@gmail.com).
+<!-- - If you are interested in our **joint Ph.D. programmes** at TeleAI (for 2026), please feel free to contact me (hyzhang98@gmail.com). -->
 - We are hiring researchers / research engineers / interns. If you are interested in joining us at TeleAI, please send your CV to me (hyzhang98@gmail.com).
 
 # <b><font color=blue>Call for Paper</font></b>
