@@ -25,10 +25,6 @@ My research interests include representation learning, noise learning, multimoda
 - [Dec. 2024] We will organize The 4th Anti-UAV Workshop & Challenge on CVPR-2025.
 - [Dec. 2024] Three papers are accepted by AAAI-2025.
 
-# Recruit
-
-<!-- - If you are interested in our **joint Ph.D. programmes** at TeleAI (for 2026), please feel free to contact me (hyzhang98@gmail.com). -->
-- We are hiring researchers / research engineers / interns. If you are interested in joining us at TeleAI, please send your CV to me (hyzhang98@gmail.com).
 
 # <b><font color=blue>Call for Paper</font></b>
 
