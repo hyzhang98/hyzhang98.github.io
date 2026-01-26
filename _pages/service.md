@@ -23,7 +23,7 @@ redirect_from:
 
 ## Program Committee Member / Reviewer of Conference
 
-- International Conference on Machine Learning (ICML 22--25)
+- International Conference on Machine Learning (ICML 22--26)
 - International Conference on Learning Representations (ICLR 23--26)
 - Annual Conference on Neural Information Processing Systems (NeurIPS 22--25)
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 22--26)
@@ -34,7 +34,7 @@ redirect_from:
 - AAAI Conference on Artificial Intelligence (AAAI22 & AAAI24--26)
 - AAAI 2025 Senior Member Presentation Track (AAAI25-SMT)
 - International Joint Conference on Artificial Intelligence (IJCAI 22--25)
-- European Conference on Computer Vision (ECCV24 & ECCV22)
+- European Conference on Computer Vision (ECCV26 & ECCV24 & ECCV22)
 - ACM Multimedia (MM 24--25)
 - International Conference on Artificial Intelligence and Statistics (AISTATS 25--26)
 - IEEE/CVF Winter Conference on Applications of Computer Vision (WACV26)

@@ -9,6 +9,8 @@ The full list of my papers can be found on my [Google Scholar](https://scholar.g
 
 (*: Corresponding authors; +: Equal contribution)
 
+- Zhiqian Lan, Yuxuan Jiang, Ruiqi Wang, Xuanbing Xie, Rongkui Zhang, Yicheng Zhu, Peihang Li, Tianshuo Yang, Tianxing Chen, Haoyu Gao, Xiaokang Yang, Xuelong Li, **Hongyuan Zhang**, Yao Mu, and Ping Luo, "AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory," in *The Fourteenth International Conference on Learning Representations (ICLR)*, 2026.
+- Qing Zhou, Tao Yang, Bingxuan Zhao, **Hongyuan Zhang**, Junyu Gao, and Qi Wang, "Inconsistency Biases in Dynamic Data Pruning," in *The Fourteenth International Conference on Learning Representations (ICLR)*, 2026.
 - Zhenyu Gu, Yanchen Xu, Sida Huang, Yubin Guo, and **Hongyuan Zhang**<sup>\*</sup>, "Rectified Noise: A Generative Model Using Positive-incentive Noise," in *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, <font color=red>oral</font>, 2026.
 - Siqi Huang, Sida Huang, and **Hongyuan Zhang**<sup>\*</sup>, "CoLM: Collaborative Large Models via A Client-Server Paradigm," in *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, <font color=red>oral</font>, 2026.
 - Sida Huang, Siqi Huang, Ping Luo, and **Hongyuan Zhang**<sup>\*</sup>, "Laytrol: Preserving Pretrained Knowledge in Layout Control for Multimodal Diffusion Transformers," in *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2026.
