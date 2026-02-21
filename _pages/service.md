@@ -35,7 +35,7 @@ redirect_from:
 - AAAI 2025 Senior Member Presentation Track (AAAI25-SMT)
 - International Joint Conference on Artificial Intelligence (IJCAI 22--25)
 - European Conference on Computer Vision (ECCV26 & ECCV24 & ECCV22)
-- ACM Multimedia (MM 24--25)
+- ACM Multimedia (MM 24--26)
 - International Conference on Artificial Intelligence and Statistics (AISTATS 25--26)
 - IEEE/CVF Winter Conference on Applications of Computer Vision (WACV26)
 - Asian Conference on Computer Vision (ACCV24)
