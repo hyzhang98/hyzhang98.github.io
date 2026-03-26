@@ -9,7 +9,9 @@ The full list of my papers can be found on my [Google Scholar](https://scholar.g
 
 (*: Corresponding authors; +: Equal contribution)
 
+- Xukun Zhou , Fengxin Li , Ming Chen, Yan Zhou, Pengfei Wan, Yeying Jin, **Hongyuan Zhang**, Hongyan Liu, Zhaoxin Fan, Jun He, and Xuelong Li, "ExGes: Expressive Human Motion Retrieval and Modulation for Audio-Driven Gesture Synthesis," *IEEE Transactions on Visualization and Computer Graphics (TVCG)*, 2026.
 - Xudong Cai, Yongcai Wang, Zhaoxin Fan, Haoran Deng, Shuo Wang, Wanting Li, Deying Li, Lun Luo, Minhang Wang, **Hongyuan Zhang**, and Xuelong Li, "Dust to Tower: Coarse-to-Fine Photo-Realistic Scene Reconstruction from Sparse Uncalibrated Images," *IEEE Transactions on Visualization and Computer Graphics (TVCG)*, 2026.
+- Yanan Zhu, Ziwei Xiang, Jinyang Guo, Jiamin Wu, Chunfeng Song, **Hongyuan Zhang**, Hongjian Fang, Qihao Zheng, Yufei Guo, and Xianglong Liu, "Region-Aware Hierarchical Sub-Feature Alignment for Robust EEG-Based Visual Decoding," in *Findings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR Findings)*, 2026.
 - Qing Zhou, Bingxuan Zhao, Tao Yang, **Hongyuan Zhang**, Junyu Gao, and Qi Wang, "Batch Loss Score for Dynamic Data Pruning," in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2026.
 - Zhiqian Lan, Yuxuan Jiang, Ruiqi Wang, Xuanbing Xie, Rongkui Zhang, Yicheng Zhu, Peihang Li, Tianshuo Yang, Tianxing Chen, Haoyu Gao, Xiaokang Yang, Xuelong Li, **Hongyuan Zhang**, Yao Mu, and Ping Luo, "AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory," in *The Fourteenth International Conference on Learning Representations (ICLR)*, 2026.
 - Qing Zhou, Tao Yang, Bingxuan Zhao, **Hongyuan Zhang**, Junyu Gao, and Qi Wang, "Inconsistency Biases in Dynamic Data Pruning," in *The Fourteenth International Conference on Learning Representations (ICLR)*, 2026.

@@ -12,7 +12,8 @@ My research interests include representation learning, noise learning, multimoda
 
 # News
 - [Mar. 2026] One paper is accepted by TVCG. 
-- [Jan. 2026] One paper is accepted by CVPR-2026. 
+- [Mar. 2026] One paper is accepted by TVCG. 
+- [Jan. 2026] One paper is accepted by CVPR-2026 and one paper is accepted by CVPR-2026 Findings. 
 - [Jan. 2026] Two papers are accepted by ICLR-2026. 
 - [Nov. 2025] Four papers (**oral * 2**) are accepted by AAAI-2026. 
 - [Sep. 2025] Two papers are accepted by NeurIPS-2025. 
