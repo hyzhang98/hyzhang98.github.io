@@ -15,11 +15,12 @@ redirect_from:
 - **Executive Guest Editor** of *Pattern Recognition* Special Issue on "Spatial Embodied Intelligence of Unmanned Systems in Open Urban Environments"
 - **Executive Guest Editor** of *Neurocomputing* Special Issue on "Positive Noise Learning"
 - **Executive Guest Editor** of *Signal Processing* Special Issue on "Beneficial Noise Processing in Multimodal Signal Processing"
-- **Guest Editor** of *Remote Sensing* Special Issue on ``Advancements of Vision-Language Models (VLMs) in Remote Sensing''
+- **Guest Editor** of *Remote Sensing* Special Issue on "Advancements of Vision-Language Models (VLMs) in Remote Sensing"
 - **Associate Editor** of *Vicinagearth*
 
 ## Organizer of Conference / Workshop
-- The 4th Anti-UAV Workshop \& Challenge on CVPR 2025
+- **IEEE GLOBECOM** Workshop on AI Flow: Towards Ubiquitous Intelligence in the Era of Large Foundation Models
+- The 4th Anti-UAV Workshop \& Challenge on **CVPR 2025**
 
 ## Program Committee Member / Reviewer of Conference
 
@@ -33,7 +34,7 @@ redirect_from:
 - The Web Conference (WWW25) Short Paper Track
 - AAAI Conference on Artificial Intelligence (AAAI22 & AAAI24--26)
 - AAAI 2025 Senior Member Presentation Track (AAAI25-SMT)
-- International Joint Conference on Artificial Intelligence (IJCAI 22--25)
+- International Joint Conference on Artificial Intelligence (IJCAI 22--26)
 - European Conference on Computer Vision (ECCV26 & ECCV24 & ECCV22)
 - ACM Multimedia (MM 24--26)
 - International Conference on Artificial Intelligence and Statistics (AISTATS 25--26)
@@ -53,6 +54,7 @@ redirect_from:
 ## Reviewer of Journal
 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
+- IEEE Transactions on Image Processing (T-IP)
 - IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)
 - IEEE Transactions on Cybernetics (T-CYB)
 - IEEE Transactions on Cognitive Communications and Networking (T-CCN)
