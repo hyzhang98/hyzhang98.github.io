@@ -11,6 +11,8 @@ I am currently a Postdoctoral Fellow at The University of Hong Kong (working wit
 My research interests include representation learning, noise learning, multimodal learning, generative models, and embodied AI.
 
 # News
+- [May 2026] Four papers are accepted by ICML-2026. 
+- [Apr. 2026] One paper is accepted by TMLR. 
 - [Mar. 2026] One paper is accepted by TVCG. 
 - [Mar. 2026] One paper is accepted by TVCG. 
 - [Jan. 2026] One paper is accepted by CVPR-2026 and one paper is accepted by CVPR-2026 Findings. 
