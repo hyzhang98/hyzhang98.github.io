@@ -12,6 +12,7 @@ My research interests include representation learning, noise learning, multimoda
 
 # News
 - [Jul. 2026] Two papers are accepted by ACM MM 2026. 
+- [Jun. 2026] One paper is accepted by Pattern Recognition. 
 - [May 2026] Four papers are accepted by ICML-2026. 
 - [Apr. 2026] One paper is accepted by TMLR. 
 - [Mar. 2026] One paper is accepted by TVCG. 

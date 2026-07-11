@@ -11,6 +11,7 @@ The full list of my papers can be found on my [Google Scholar](https://scholar.g
 
 - Xianhui Meng, Yuchen Zhang, Zhijian Huang, Zheng Lu, Ziling Ji, Yandan Lin, Yaoyao Yin, **Hongyuan Zhang**, Wei Zhou, Guangfeng Jiang, Li Zhang, Long Chen, Hangjun Ye, Jun Liu, and Xiaoshuai Hao, "DSBench: A Comprehensive Benchmark for Evaluating External and In-Cabin Risks," in *34th ACM International Conference on Multimedia (ACM MM)*, 2026.
 - Qianlong Yang, Bowen Ye, Xianda Guo, Yanlun Peng, Wenke Huang, **Hongyuan Zhang**, and Yulei Jia, "Mitigating Visual Degradation in MLLMs via Spatial-Spectral Visual Anchor Learning," in *34th ACM International Conference on Multimedia (ACM MM)*, 2026. 
+-   Siqi Huang, Yanchen Xu, **Hongyuan Zhang**<sup>\*</sup>, and Xuelong Li<sup>\*</sup>, "Predict Overlooked Nodes: A Fast Graph Representation Learning Paradigm," *Pattern Recognition*, 2026.
 - **Hongyuan Zhang**, Yanchen Xu, Sida Huang, and Xuelong Li, "Data Augmentation of Contrastive Learning is Estimating Positive-incentive Noise," in *International Conference on Machine Learning (ICML)*, 2026.
 - Ruishu Zhu, Zhihao Huang, Jiacheng Sun, Ping Luo, **Hongyuan Zhang**<sup>\*</sup>, and Xuelong Li<sup>\*</sup>, "ViewMask-1-to-3: Multi-View Consistent Image Generation via Multimodal Discrete Diffusion Models," in *International Conference on Machine Learning (ICML)*, 2026.
 - Qing Zhou, **Hongyuan Zhang**, Tao Yang, Junyu Gao, and Qi Wang, "Statistically Optimal Scaling for Token Merging in Transformers," in *International Conference on Machine Learning (ICML)*, 2026.
