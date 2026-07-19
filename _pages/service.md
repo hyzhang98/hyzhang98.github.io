@@ -18,6 +18,9 @@ redirect_from:
 - **Guest Editor** of *Remote Sensing* Special Issue on "Advancements of Vision-Language Models (VLMs) in Remote Sensing"
 - **Associate Editor** of *Vicinagearth*
 
+## Area Chair / Senior Program Committee Member of Conference
+- AAAI Conference on Artificial Intelligence (AAAI 27)
+
 ## Organizer of Conference / Workshop
 - **IEEE GLOBECOM** Workshop on AI Flow: Towards Ubiquitous Intelligence in the Era of Large Foundation Models
 - The 4th Anti-UAV Workshop \& Challenge on **CVPR 2025**
@@ -32,7 +35,7 @@ redirect_from:
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD 26&25&24&22)
 - The Web Conference (WWW25) Graph Track
 - The Web Conference (WWW25) Short Paper Track
-- AAAI Conference on Artificial Intelligence (AAAI22 & AAAI24--26)
+- AAAI Conference on Artificial Intelligence (AAAI22 & AAAI24--27)
 - AAAI 2025 Senior Member Presentation Track (AAAI25-SMT)
 - International Joint Conference on Artificial Intelligence (IJCAI 22--26)
 - European Conference on Computer Vision (ECCV26 & ECCV24 & ECCV22)
