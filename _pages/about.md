@@ -11,8 +11,8 @@ I am currently a Postdoctoral Fellow at The University of Hong Kong (working wit
 My research interests include representation learning, noise learning, multimodal learning, generative models, and embodied AI.
 
 # News
-- [Jul. 2027] Invited as a Senior Program Committee (SPC). 
-- [Jul. 2026] One paper is accepted by IEEE T-IP. 
+- [Jul. 2027] Invited as a Senior Program Committee (SPC) of AAAI 2027. 
+- [Jul. 2026] One paper is accepted by IEEE TIP. 
 - [Jul. 2026] Two papers are accepted by ACM MM 2026. 
 - [Jun. 2026] One paper is accepted by Pattern Recognition. 
 - [May 2026] Four papers are accepted by ICML-2026. 
