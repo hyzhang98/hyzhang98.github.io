@@ -19,7 +19,7 @@ redirect_from:
 - **Associate Editor** of *Vicinagearth*
 
 ## Area Chair / Senior Program Committee Member of Conference
-- AAAI Conference on Artificial Intelligence (AAAI 27)
+- **Senior Program Committee Member** of *AAAI Conference on Artificial Intelligence (AAAI 27)*
 
 ## Organizer of Conference / Workshop
 - **IEEE GLOBECOM** Workshop on AI Flow: Towards Ubiquitous Intelligence in the Era of Large Foundation Models
