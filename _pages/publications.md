@@ -9,6 +9,7 @@ The full list of my papers can be found on my [Google Scholar](https://scholar.g
 
 (*: Corresponding authors; +: Equal contribution)
 
+- Yuheng Lei, Zhixuan Liang, **Hongyuan Zhang**, and Ping Luo, "VPWEM: Non-Markovian Visuomotor Policy with Working and Episodic Memory," *IEEE Robotics and Automation Letters (RAL)*, 2026.
 - Kai Jiang, Zisong Lin, **Hongyuan Zhang**, Xueru Bai, and Xuelong Li, "Miles: Metric Learning with Expandable Subspace for Pre-Trained Model-Based Class-Incremental Learning," *IEEE Transactions on Image Processing*, 2026.
 - Xin Ma, Yalong Guo, Haolan Lei, Furong Chen, Jiachen Wang, Bo Zhang, Rong Gao, **Hongyuan Zhang**, Mulin Chen, Liquan Shen, Yi Wang, Lap-pui Chau, Chaochen Cui, Chuang Yang, "Power-UMI: Multi-Scenario Tactile Robot Data Collector," in *The 9th Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2026. 
 - Xianhui Meng, Yuchen Zhang, Zhijian Huang, Zheng Lu, Ziling Ji, Yandan Lin, Yaoyao Yin, **Hongyuan Zhang**, Wei Zhou, Guangfeng Jiang, Li Zhang, Long Chen, Hangjun Ye, Jun Liu, and Xiaoshuai Hao, "DSBench: A Comprehensive Benchmark for Evaluating External and In-Cabin Risks," in *34th ACM International Conference on Multimedia (ACM MM)*, 2026.
