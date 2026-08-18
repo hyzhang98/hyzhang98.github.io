@@ -21,9 +21,10 @@ redirect_from:
 ## Area Chair / Senior Program Committee Member of Conference
 - **Senior Program Committee Member** of *AAAI Conference on Artificial Intelligence (AAAI 27)*
 
-## Organizer of Conference / Workshop
-- **IEEE GLOBECOM** Workshop on AI Flow: Towards Ubiquitous Intelligence in the Era of Large Foundation Models
-- The 4th Anti-UAV Workshop \& Challenge on **CVPR 2025**
+## Organizer / Chair of Conference / Workshop
+- **Co-Chair** of Special Session "*Generative Transmission for Distributed Intelligent Signal Processing based on Large Foundation Models and Beneficial Noise Models*" on IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP 2027**)
+- **Organizer** of **IEEE GLOBECOM** Workshop on AI Flow: Towards Ubiquitous Intelligence in the Era of Large Foundation Models
+- **Organizer** of The 4th Anti-UAV Workshop \& Challenge on **CVPR 2025**
 
 ## Program Committee Member / Reviewer of Conference
 
