@@ -9,6 +9,7 @@ The full list of my papers can be found on my [Google Scholar](https://scholar.g
 
 (*: Corresponding authors; +: Equal contribution)
 
+- Yaxiong Li, Yifan Hou, Xiaozhen Qiao, Qing Zhou, **Hongyuan Zhang**, Qisong Yang, "Reconstruction-Aware Token Merging for Efficient Human-Scene 3D Reconstruction," *Pattern Recognition*, 2026.
 - Yuheng Lei, Zhixuan Liang, **Hongyuan Zhang**, and Ping Luo, "VPWEM: Non-Markovian Visuomotor Policy with Working and Episodic Memory," *IEEE Robotics and Automation Letters (RAL)*, 2026.
 - Kai Jiang, Zisong Lin, **Hongyuan Zhang**, Xueru Bai, and Xuelong Li, "Miles: Metric Learning with Expandable Subspace for Pre-Trained Model-Based Class-Incremental Learning," *IEEE Transactions on Image Processing*, 2026.
 - Xin Ma, Yalong Guo, Haolan Lei, Furong Chen, Jiachen Wang, Bo Zhang, Rong Gao, **Hongyuan Zhang**, Mulin Chen, Liquan Shen, Yi Wang, Lap-pui Chau, Chaochen Cui, Chuang Yang, "Power-UMI: Multi-Scenario Tactile Robot Data Collector," in *The 9th Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2026. 
