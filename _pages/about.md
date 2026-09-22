@@ -11,6 +11,7 @@ I am currently a Postdoctoral Fellow at The University of Hong Kong (working wit
 My research interests include representation learning, noise learning, multimodal learning, generative models, and embodied AI.
 
 # News
+- [Sep. 2026] One paper is accepted by Information Fusion. 
 - [Aug. 2026] One paper is accepted by  Pattern Recognition.
 - [Aug. 2026] We will organize a Special Session on ICASSP 2027. 
 - [Jul. 2026] One paper is accepted by IEEE RAL. 
