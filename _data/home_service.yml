@@ -1,0 +1,18 @@
+﻿# Service entries shown on the homepage only.
+# The complete service record remains in _pages/service.md.
+- title: "Editor of Journal"
+  items:
+    - text: "Associate Editor of IEEE Transactions on Fuzzy Systems"
+    - text: "Associate Editor of Pattern Recognition"
+    - text: "Executive Guest Editor of Pattern Recognition Special Issue on Beneficial Noise Learning"
+- title: "Area Chair / Senior Program Committee Member"
+  items:
+    - text: "Senior Program Committee Member of AAAI Conference on Artificial Intelligence (AAAI 27)"
+- title: "Organizer / Chair"
+  items:
+    - text: "Co-Chair of the ICASSP 2027 Special Session on Generative Transmission for Distributed Intelligent Signal Processing"
+- title: "Selected Reviewer Service"
+  items:
+    - text: "International Conference on Machine Learning (ICML)"
+    - text: "Conference on Neural Information Processing Systems (NeurIPS)"
+    - text: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"

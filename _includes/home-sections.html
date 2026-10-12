@@ -1,7 +1,5 @@
-﻿{% assign service_page = site.pages | where: "path", "_pages/service.md" | first %}
-
-<section class="home-section home-publications" id="publications">
-  <h2>Publications</h2>
+﻿<section class="home-section home-publications" id="publications">
+  <h2>Selected Publications</h2>
   <div class="section-lead">The full list of my papers can be found on my <a href="https://scholar.google.com/citations?user=g9cZ9XsAAAAJ">Google Scholar</a>.</div>
   <div class="publication-list">
     {% for publication in site.data.home_publications %}
@@ -12,6 +10,15 @@
 </section>
 
 <section class="home-section home-service" id="service">
-  <h2>Service</h2>
-  {{ service_page.content | markdownify }}
+  <h2>Selected Service</h2>
+  {% for group in site.data.home_service %}
+    {% if group.title %}<h3>{{ group.title }}</h3>{% endif %}
+    {% if group.items %}
+      <ul>
+        {% for item in group.items %}
+          <li>{% if item.link %}<a href="{{ item.link }}">{{ item.text }}</a>{% else %}{{ item.text }}{% endif %}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  {% endfor %}
 </section>

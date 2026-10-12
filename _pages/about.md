@@ -13,9 +13,9 @@ My research interests include representation learning, noise learning, multimoda
 <section class="research-interest" aria-labelledby="research-interest-title">
   <h2 id="research-interest-title">Research Interest</h2>
   <div class="research-interest__grid">
-    <div><h3>Representation Learning</h3><ul><li>Robust representation learning</li><li>Graph and multimodal learning</li></ul></div>
-    <div><h3>Noise Learning</h3><ul><li>Beneficial noise learning</li><li>Learning with noisy data</li></ul></div>
-    <div><h3>Generative and Embodied AI</h3><ul><li>Generative models</li><li>Embodied intelligence</li></ul></div>
+    <div><h3>Representation Learning</h3><ul><li>Multimodal Representation</li><li>Noise Learning</li></ul></div>
+    <div><h3>Multimodal Learning</h3><ul><li>Multimodal Understanding</li><li>Multimodal Generation</li></ul></div>
+    <div><h3>Physical AI</h3><ul><li>3D Computer Vision</li><li>Embodied AI</li></ul></div>
   </div>
 </section>
 
@@ -50,7 +50,7 @@ My research interests include representation learning, noise learning, multimoda
 </div>
 
 
-# <b><font color=blue>Call for Paper</font></b>
+# <b><font color=blue>Call for Papers</font></b>
 
 - \[<font color=red>Ongoing</font>\] We are organizing a special session, **Generative Transmission for Distributed Intelligent Signal Processing based on Large Foundation Models and Beneficial Noise Models**, on **ICASSP 2027** (CCF-B), where I'm the **Co-Chair**. Welcome to submit your manuscripts about noise and generative models to our special session. If you have any questions about our special session, please feel free to contact me (hyzhang98@gmail.com).
 - \[<font color=red>Ongoing</font>\] We are organizing a special issue, **Beneficial Noise Processing in Multimodal Signal Processing**, on **Signal Processing** (Impact Factor = 3.6), where I'm the **Executive Guest Editor**. The homepage is [here](https://www.sciencedirect.com/special-issue/329018/beneficial-noise-processing-in-multimodal-signal-processing). Welcome to submit your manuscripts about noise to our special issue. If you have any questions about our special issues, please feel free to contact me (hyzhang98@gmail.com).
