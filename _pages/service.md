@@ -59,6 +59,7 @@ redirect_from:
 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
 - IEEE Transactions on Image Processing (T-IP)
+- IEEE Transactions on Multimedia (T-MM)
 - IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)
 - IEEE Transactions on Cybernetics (T-CYB)
 - IEEE Transactions on Cognitive Communications and Networking (T-CCN)

@@ -4,7 +4,7 @@
   <div class="site-header__inner">
     <a class="site-header__identity" href="{{ base_path }}/">
       <span class="site-header__name">{{ site.title }}</span>
-      {% if site.author.bio %}<span class="site-header__role">{{ site.author.bio }}</span>{% endif %}
+      {% if site.author.short_bio %}<span class="site-header__role">{{ site.author.short_bio }}</span>{% endif %}
     </a>
     <nav class="site-header__nav" aria-label="Primary navigation">
       <a class="{% if page.url == '/' %}is-active{% endif %}" href="{{ base_path }}/">Home</a>

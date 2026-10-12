@@ -22,9 +22,10 @@ repository               : "hyzhang98/hyzhang98.github.io"
 author:
   # Biographic information
   avatar           : "hongyuan_zhang.png"
-  name             : "Hongyuan Zhang\n(张鸿远)"
+  name             : "Hongyuan Zhang"
   pronouns         : # example: "he/him"  
-  bio              : "PostDoc at HKU"
+  short_bio        : "张鸿远"
+  bio              : "PostDoc"
   email            : "hyzhang98@gmail.com" 
   employer         : "The University of Hong Kong"
   location         : "Hong Kong"
