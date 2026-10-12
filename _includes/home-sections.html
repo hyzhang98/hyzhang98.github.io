@@ -10,13 +10,13 @@
 </section>
 
 <section class="home-section home-service" id="service">
-  <h2>Selected Service</h2>
+  <h2>Part of Service</h2>
   {% for group in site.data.home_service %}
     {% if group.title %}<h3>{{ group.title }}</h3>{% endif %}
     {% if group.items %}
       <ul>
         {% for item in group.items %}
-          <li>{% if item.link %}<a href="{{ item.link }}">{{ item.text }}</a>{% else %}{{ item.text }}{% endif %}</li>
+          <li>{% if item.link %}<a href="{{ item.link }}">{{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}</a>{% else %}{{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %}</li>
         {% endfor %}
       </ul>
     {% endif %}
