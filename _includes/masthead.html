@@ -8,10 +8,12 @@
     </a>
     <nav class="site-header__nav" aria-label="Primary navigation">
       <a href="{{ base_path }}/">Home</a>
+      {% if page.url == "/" %}<a href="#news">News</a>{% else %}<a href="{{ base_path }}/#news">News</a>{% endif %}
       {% for link in site.data.navigation.main %}
         {% if link.url contains 'http' %}{% assign domain = '' %}{% else %}{% assign domain = base_path %}{% endif %}
         <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
       {% endfor %}
+      {% if page.url == "/" %}<a href="#teaching">Teaching</a>{% else %}<a href="{{ base_path }}/#teaching">Teaching</a>{% endif %}
     </nav>
   </div>
 </header>

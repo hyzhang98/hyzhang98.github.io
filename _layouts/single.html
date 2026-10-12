@@ -14,6 +14,7 @@ layout: default
     <section class="content-body" itemprop="text">
       {{ content }}
       {% if page.citation %}<p class="publication-citation">{{ page.citation }}</p>{% endif %}
+      {% if page.url == "/" %}{% include home-sections.html %}{% endif %}
     </section>
   </article>
 </main>

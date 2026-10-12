@@ -1,0 +1,27 @@
+
+{% assign publications_page = site.pages | where: "path", "_pages/publications.md" | first %}
+{% assign service_page = site.pages | where: "path", "_pages/service.md" | first %}
+
+<section class="home-section home-publications" id="publications">
+  <h2>Publications</h2>
+  <div class="section-lead">The full list of my papers can be found on my <a href="https://scholar.google.com/citations?user=g9cZ9XsAAAAJ">Google Scholar</a>.</div>
+  {{ publications_page.content | markdownify }}
+</section>
+
+<section class="home-section home-teaching" id="teaching">
+  <h2>Teaching</h2>
+  {% for item in site.teaching reversed %}
+    <div class="teaching-entry">
+      <strong>{{ item.course | default: item.title }}</strong>
+      {% if item.type %}<span>{{ item.type }}</span>{% endif %}
+      {% if item.venue %}<span>{{ item.venue }}</span>{% endif %}
+      {% if item.date %}<span>{{ item.date | date: "%Y" }}</span>{% endif %}
+      {{ item.content }}
+    </div>
+  {% endfor %}
+</section>
+
+<section class="home-section home-service" id="service">
+  <h2>Service</h2>
+  {{ service_page.content | markdownify }}
+</section>
