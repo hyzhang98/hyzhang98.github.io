@@ -36,7 +36,7 @@ a:hover { color: #315da9; }
 .site-header__inner { position: relative; height: 100%; }
 .site-header__identity { position: absolute; left: 0; top: 8px; color: var(--ink); text-decoration: none; }
 .site-header__name { display: inline; font-size: 2.75rem; font-weight: 400; letter-spacing: -.045em; line-height: 1; }
-.site-header__role { display: block; margin: .32rem 0 0 .6rem; color: var(--muted); font-size: 1.06rem; font-style: italic; white-space: nowrap; }
+.site-header__role { display: block; margin: .32rem 0 0 .6rem; color: var(--muted); font-size: 1.16rem; font-style: italic; white-space: nowrap; }
 .site-header__nav { position: absolute; right: 0; bottom: 11px; display: flex; align-items: center; gap: 1.6rem; }
 .site-header__nav a { color: var(--ink); font-size: 1.16rem; line-height: 1; text-decoration: none; text-transform: uppercase; }
 .site-header__nav a.is-active { color: var(--link); font-weight: 700; }
@@ -57,6 +57,7 @@ a:hover { color: #315da9; }
 .profile-page__profile .author__name { margin: 0; color: var(--ink); font-family: var(--serif); font-size: 1.08rem; font-weight: 400; line-height: 1.45; }
 .profile-page__profile .author__bio { margin: 0; color: var(--ink); font-family: var(--serif); font-size: 1.08rem; line-height: 1.45; }
 .profile-page__profile .author__employer { margin: 0; color: var(--ink); font-family: var(--serif); font-size: 1.08rem; line-height: 1.45; }
+.profile-page__profile .author__content p { margin: 0 !important; padding: 0; }
 .profile-page__profile .author__urls-wrapper { display: block; margin-top: 20px; }
 .profile-page__profile .author__urls { display: block; position: static; margin: 0; padding: 0; border: 0; background: transparent; box-shadow: none; }
 .profile-page__profile .author__urls li { display: block; margin: 0 0 10px; padding: 0; list-style: none; white-space: normal; }
