@@ -89,6 +89,24 @@ a:hover { color: #315da9; }
 .teaching-entry > span:last-of-type { grid-column: 2; grid-row: 1 / span 4; align-self: start; }
 .home-service ul { margin-bottom: 1rem; }
 .home-service h3 { margin-top: 1.25rem; }
+.research-interest { margin: 1.8rem 0 2rem; }
+.research-interest h2 { margin-bottom: .9rem; }
+.research-interest__grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 2.3rem; }
+.research-interest__grid h3 { margin: 0 0 .35rem; font-size: 1rem; }
+.research-interest__grid ul { margin: 0; padding-left: 1.1rem; }
+.research-interest__grid li { margin: .12rem 0; }
+.news-scroll { max-height: 215px; overflow-y: auto; margin: 0 0 1.6rem; padding: 0 .8rem 0 1.25rem; scrollbar-color: #c9c9c9 transparent; }
+.news-scroll ul { margin: 0; }
+.publication-list { display: grid; gap: 1.1rem; }
+.publication-item { display: grid; grid-template-columns: 180px minmax(0, 1fr); gap: 1rem; min-height: 120px; }
+.publication-item__image { min-height: 112px; border: 1px dashed #d8d8d8; background: #fafafa; }
+.publication-item__image img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.publication-item__body h3 { margin: 0 0 .25rem; font-size: 1rem; font-weight: 400; }
+.publication-item__body p { margin: .18rem 0; font-size: .88rem; }
+.publication-item__authors { color: var(--muted); }
+.publication-item__venue { font-style: italic; }
+.publication-item__links { font-size: .82rem !important; }
+.publication-more { display: inline-block; margin-top: 1rem; }
 .archive-page__title { margin: 0 0 1.2rem; font-family: var(--serif); font-size: 1.8rem; font-weight: 400; }
 .archive-page .archive__item { margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid var(--rule); }
 
@@ -111,6 +129,8 @@ a:hover { color: #315da9; }
   .profile-page__profile .author__avatar, .profile-page__profile .author__avatar img { width: 180px; height: 292px; }
   .profile-page__profile .author__content { padding-top: 0; }
   .profile-page__profile .author__urls-wrapper { grid-column: 1 / -1; }
+  .research-interest__grid { grid-template-columns: 1fr; gap: 1rem; }
+  .publication-item { grid-template-columns: 120px minmax(0, 1fr); }
 }
 @media (max-width: 480px) {
   .profile-page__profile { display: block; }

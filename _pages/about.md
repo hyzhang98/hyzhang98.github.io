@@ -10,7 +10,17 @@ I am currently a Postdoctoral Fellow at The University of Hong Kong (working wit
 
 My research interests include representation learning, noise learning, multimodal learning, generative models, and embodied AI.
 
-# News
+<section class="research-interest" aria-labelledby="research-interest-title">
+  <h2 id="research-interest-title">Research Interest</h2>
+  <div class="research-interest__grid">
+    <div><h3>Representation Learning</h3><ul><li>Robust representation learning</li><li>Graph and multimodal learning</li></ul></div>
+    <div><h3>Noise Learning</h3><ul><li>Beneficial noise learning</li><li>Learning with noisy data</li></ul></div>
+    <div><h3>Generative and Embodied AI</h3><ul><li>Generative models</li><li>Embodied intelligence</li></ul></div>
+  </div>
+</section>
+
+<h2 id="news">News</h2>
+<div class="news-scroll" aria-label="News" markdown="1">
 - [Sep. 2026] One paper is accepted by Information Fusion. 
 - [Aug. 2026] One paper is accepted by  Pattern Recognition.
 - [Aug. 2026] We will organize a Special Session on ICASSP 2027. 
@@ -37,6 +47,7 @@ My research interests include representation learning, noise learning, multimoda
 - [Dec. 2024] One paper is accepted by TNNLS.
 - [Dec. 2024] We will organize The 4th Anti-UAV Workshop & Challenge on CVPR-2025.
 - [Dec. 2024] Three papers are accepted by AAAI-2025.
+</div>
 
 
 # <b><font color=blue>Call for Paper</font></b>

@@ -1,0 +1,10 @@
+# Add only the recent papers you want to show on the homepage.
+# The image field is intentionally optional and can remain empty.
+# - title: ""
+#   authors: ""
+#   venue: ""
+#   year: ""
+#   image: ""
+#   links:
+#     - label: "paper"
+#       url: ""
