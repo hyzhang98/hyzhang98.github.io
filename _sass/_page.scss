@@ -5,22 +5,22 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
-  padding-left: 1em;
-  padding-right: 1em;
+  margin-top: 2.75em;
+  padding-left: 1.25em;
+  padding-right: 1.25em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    max-width: 1080px;
   }
 }
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include span(9 of 12 last);
+    @include prefix(0.4 of 12);
+    @include suffix(0.5 of 12);
   }
 
   .page__inner-wrap {
@@ -40,6 +40,33 @@
 
   & + .page__meta {
     margin-top: -0.5em;
+  }
+}
+
+.page__content {
+  max-width: 760px;
+  text-align: left;
+
+  h2 {
+    margin-top: 2.4em;
+    padding-bottom: 0.35em;
+    color: $text-color;
+    font-size: 1.12em;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    border-bottom: 1px solid $border-color;
+  }
+
+  h3 {
+    font-size: 1em;
+  }
+
+  p, li {
+    line-height: 1.72;
+  }
+
+  ul {
+    padding-left: 1.25em;
   }
 }
 

@@ -3,11 +3,10 @@
    ========================================================================== */
 
 .masthead {
-  position: fixed;
-  background: white;
+  position: relative;
+  background: $background-color;
   border-bottom: 1px solid $border-color;
-  height: $masthead-height;
-  top: 0;
+  min-height: $masthead-height;
   width: 100%;
 
   -webkit-animation: intro 0.3s both;
@@ -19,7 +18,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 1.35em 1.25em 1.1em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -52,7 +51,25 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
-    font-weight: 700;
+    padding-right: 2.5em;
+    font-weight: 600;
+
+    .site-title,
+    .site-subtitle {
+      display: block;
+    }
+
+    .site-title {
+      color: $text-color;
+      font-size: 1.2em;
+      letter-spacing: -0.01em;
+    }
+
+    .site-subtitle {
+      margin-top: 0.15em;
+      color: $gray;
+      font-size: 0.72em;
+      font-weight: 400;
+    }
   }
 }
