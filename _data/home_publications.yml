@@ -1,10 +1,20 @@
-# Add only the recent papers you want to show on the homepage.
-# The image field is intentionally optional and can remain empty.
-# - title: ""
-#   authors: ""
-#   venue: ""
-#   year: ""
-#   image: ""
-#   links:
-#     - label: "paper"
-#       url: ""
+# Replace or remove these entries to choose the papers shown on the homepage.
+# Keep image empty until you add a paper thumbnail.
+- title: "On-Policy Distillation for Vision-Language Model Adaptation: An Effective Paradigm on Low-Quality Multimodal Data"
+  authors: "Hongyuan Zhang, Xianda Guo, Yanlun Peng, et al."
+  venue: "Information Fusion"
+  year: 2026
+  image: ""
+  links: []
+- title: "Reconstruction-Aware Token Merging for Efficient Human-Scene 3D Reconstruction"
+  authors: "Yaxiong Li, Yifan Hou, Xiaozhen Qiao, Qing Zhou, Hongyuan Zhang, et al."
+  venue: "Pattern Recognition"
+  year: 2026
+  image: ""
+  links: []
+- title: "VPWEM: Non-Markovian Visuomotor Policy with Working and Episodic Memory"
+  authors: "Yuheng Lei, Zhixuan Liang, Hongyuan Zhang, Ping Luo"
+  venue: "IEEE Robotics and Automation Letters"
+  year: 2026
+  image: ""
+  links: []

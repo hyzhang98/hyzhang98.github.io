@@ -17,7 +17,7 @@ body {
   background: var(--paper);
   color: var(--ink);
   font-family: var(--serif);
-  font-size: 19px;
+  font-size: 16px;
   line-height: 1.42;
 }
 
@@ -37,7 +37,7 @@ a:hover { color: #315da9; }
 .site-header__role { display: block; margin: .32rem 0 0 .6rem; color: var(--muted); font-size: 1.06rem; font-style: italic; white-space: nowrap; }
 .site-header__nav { position: absolute; right: 0; bottom: 11px; display: flex; align-items: center; gap: 1.6rem; }
 .site-header__nav a { color: var(--ink); font-size: 1.16rem; line-height: 1; text-decoration: none; text-transform: uppercase; }
-.site-header__nav a:first-child { color: var(--link); font-weight: 700; }
+.site-header__nav a.is-active { color: var(--link); font-weight: 700; }
 .site-header__nav a:hover { color: var(--link); }
 
 .profile-page {
