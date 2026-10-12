@@ -36,7 +36,7 @@ a:hover { color: #315da9; }
 .site-header__inner { position: relative; height: 100%; }
 .site-header__identity { position: absolute; left: 0; top: 8px; color: var(--ink); text-decoration: none; }
 .site-header__name { display: inline; font-size: 2.75rem; font-weight: 400; letter-spacing: -.045em; line-height: 1; }
-.site-header__role { display: block; margin: .32rem 0 0 .6rem; color: var(--muted); font-size: 1.16rem; font-style: italic; white-space: nowrap; }
+.site-header__role { display: block; margin: .32rem 0 0 .6rem; color: var(--muted); font-size: 1.3rem; font-style: italic; white-space: nowrap; }
 .site-header__nav { position: absolute; right: 0; bottom: 11px; display: flex; align-items: center; gap: 1.6rem; }
 .site-header__nav a { color: var(--ink); font-size: 1.16rem; line-height: 1; text-decoration: none; text-transform: uppercase; }
 .site-header__nav a.is-active { color: var(--link); font-weight: 700; }
@@ -114,6 +114,7 @@ a:hover { color: #315da9; }
 .publication-item__body h3 { margin: 0 0 .25rem; font-size: 1rem; font-weight: 400; }
 .publication-item__body p { margin: .18rem 0; font-size: .88rem; }
 .publication-item__authors { color: var(--muted); }
+.publication-item__authors strong { color: var(--ink); }
 .publication-item__venue { font-style: italic; }
 .publication-item__links { font-size: .82rem !important; }
 .publication-more { display: inline-block; margin-top: 1rem; }
