@@ -8,6 +8,8 @@
   --serif: Georgia, 'Times New Roman', Times, serif;
   --page-width: 1440px;
 }
+@font-face { font-family: 'Profile FA Solid'; src: url('../webfonts/fa-solid-900.woff2') format('woff2'); font-weight: 900; }
+@font-face { font-family: 'Profile FA Brands'; src: url('../webfonts/fa-brands-400.woff2') format('woff2'); font-weight: 400; }
 
 * { box-sizing: border-box; }
 html { background: var(--paper); }
@@ -33,7 +35,7 @@ a:hover { color: #315da9; }
 }
 .site-header__inner { position: relative; height: 100%; }
 .site-header__identity { position: absolute; left: 0; top: 8px; color: var(--ink); text-decoration: none; }
-.site-header__name { display: inline; font-size: 3.35rem; font-weight: 400; letter-spacing: -.045em; line-height: 1; }
+.site-header__name { display: inline; font-size: 2.75rem; font-weight: 400; letter-spacing: -.045em; line-height: 1; }
 .site-header__role { display: block; margin: .32rem 0 0 .6rem; color: var(--muted); font-size: 1.06rem; font-style: italic; white-space: nowrap; }
 .site-header__nav { position: absolute; right: 0; bottom: 11px; display: flex; align-items: center; gap: 1.6rem; }
 .site-header__nav a { color: var(--ink); font-size: 1.16rem; line-height: 1; text-decoration: none; text-transform: uppercase; }
@@ -42,31 +44,37 @@ a:hover { color: #315da9; }
 
 .profile-page {
   display: grid;
-  grid-template-columns: 300px minmax(0, 1fr);
-  column-gap: 61px;
+  grid-template-columns: 255px minmax(0, 1fr);
+  column-gap: 45px;
   width: min(var(--page-width), calc(100% - 7rem));
   margin: 38px auto 0;
 }
-.profile-page__profile { min-width: 0; padding-left: 30px; }
+.profile-page__profile { min-width: 0; padding-left: 20px; }
 .profile-page__profile > div { display: block; }
-.profile-page__profile .author__avatar { display: block; width: 237px; }
-.profile-page__profile .author__avatar img { display: block; width: 237px; height: 385px; padding: 0; border: 0; border-radius: 9px; object-fit: cover; object-position: center; }
+.profile-page__profile .author__avatar { display: block; width: 200px; }
+.profile-page__profile .author__avatar img { display: block; width: 200px; height: 325px; padding: 0; border: 0; border-radius: 9px; object-fit: cover; object-position: center; }
 .profile-page__profile .author__content { display: block; padding: 15px 0 0; }
 .profile-page__profile .author__name { margin: 0; color: var(--ink); font-family: var(--serif); font-size: 1.08rem; font-weight: 400; line-height: 1.45; }
 .profile-page__profile .author__bio { margin: 0; color: var(--ink); font-family: var(--serif); font-size: 1.08rem; line-height: 1.45; }
 .profile-page__profile .author__urls-wrapper { display: block; margin-top: 20px; }
 .profile-page__profile .author__urls { display: block; position: static; margin: 0; padding: 0; border: 0; background: transparent; box-shadow: none; }
 .profile-page__profile .author__urls li { display: block; margin: 0 0 10px; padding: 0; list-style: none; white-space: normal; }
-.profile-page__profile .author__urls a { display: block; margin: 0; padding: 0; color: var(--ink); font-family: var(--serif); font-size: 1rem; text-decoration: none; }
+.profile-page__profile .author__urls a { display: block; margin: 0; padding: 0; color: var(--ink); font-family: var(--serif); font-size: .92rem; text-decoration: none; }
 .profile-page__profile .author__urls a:hover { color: var(--link); }
 .profile-page__profile .author__urls i { display: inline-block; width: 1.35em; margin-right: .3rem; color: var(--ink); text-align: center; }
 .profile-page__profile .author__urls .author__desktop { display: block; margin: 0 0 10px; color: var(--ink); font-family: var(--serif); font-size: 1rem; }
 .profile-page__profile .author__urls-wrapper button { display: none; }
+.profile-icon { display: inline-block; width: 1.35em; margin-right: .3rem; color: var(--ink); text-align: center; font-style: normal; }
+.profile-icon--email { font-family: 'Profile FA Solid'; }
+.profile-icon--email::before { content: "\f0e0"; }
+.profile-icon--github { font-family: 'Profile FA Brands'; }
+.profile-icon--github::before { content: "\f09b"; }
 
 .profile-page__content { min-width: 0; }
-.content-body { max-width: 1055px; }
-.content-body p { margin: 0 0 1.1rem; }
+.content-body { max-width: 1055px; text-align: justify; }
+.content-body p, .content-body li { margin: 0 0 1.1rem; text-align: justify; }
 .content-body h1, .content-body h2, .content-body h3, .content-body h4 { color: var(--ink); font-family: var(--serif); font-weight: 400; }
+.content-body h1, .content-body h2, .content-body h3, .content-body h4 { text-align: left; }
 .content-body h1 { margin: 0 0 1.1rem; font-size: 1.8rem; }
 .content-body h2 { margin: 2rem 0 1rem; padding: 0; border: 0; font-size: 1.42rem; letter-spacing: 0; text-transform: uppercase; }
 .content-body h3 { margin: 1.2rem 0 .35rem; font-size: 1.05rem; font-weight: 700; }
@@ -98,9 +106,9 @@ a:hover { color: #315da9; }
 .news-scroll { max-height: 215px; overflow-y: auto; margin: 0 0 1.6rem; padding: 0 .8rem 0 1.25rem; scrollbar-color: #c9c9c9 transparent; }
 .news-scroll ul { margin: 0; }
 .publication-list { display: grid; gap: 1.1rem; }
-.publication-item { display: grid; grid-template-columns: 180px minmax(0, 1fr); gap: 1rem; min-height: 120px; }
-.publication-item__image { min-height: 112px; border: 1px dashed #d8d8d8; background: #fafafa; }
-.publication-item__image img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.publication-item { display: grid; grid-template-columns: 150px minmax(0, 1fr); gap: 1rem; min-height: 95px; }
+.publication-item__image { width: 150px; height: 85px; border: 1px dashed #d8d8d8; background: #fafafa; overflow: hidden; }
+.publication-item__image img { display: block; width: 150px; height: 85px; object-fit: cover; }
 .publication-item__body h3 { margin: 0 0 .25rem; font-size: 1rem; font-weight: 400; }
 .publication-item__body p { margin: .18rem 0; font-size: .88rem; }
 .publication-item__authors { color: var(--muted); }

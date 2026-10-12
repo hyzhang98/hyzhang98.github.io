@@ -1,5 +1,4 @@
-
-{% assign service_page = site.pages | where: "path", "_pages/service.md" | first %}
+﻿{% assign service_page = site.pages | where: "path", "_pages/service.md" | first %}
 
 <section class="home-section home-publications" id="publications">
   <h2>Publications</h2>
@@ -10,19 +9,6 @@
     {% endfor %}
   </div>
   <a class="publication-more" href="{{ base_path }}/publications/">View full publication list →</a>
-</section>
-
-<section class="home-section home-teaching" id="teaching">
-  <h2>Teaching</h2>
-  {% for item in site.teaching reversed %}
-    <div class="teaching-entry">
-      <strong>{{ item.course | default: item.title }}</strong>
-      {% if item.type %}<span>{{ item.type }}</span>{% endif %}
-      {% if item.venue %}<span>{{ item.venue }}</span>{% endif %}
-      {% if item.date %}<span>{{ item.date | date: "%Y" }}</span>{% endif %}
-      {{ item.content }}
-    </div>
-  {% endfor %}
 </section>
 
 <section class="home-section home-service" id="service">
