@@ -13,12 +13,9 @@ layout: compress
 
   <body class="layout-{{ page.layout }} page-{{ page.url | slugify }}">
 
-    {% include browser-upgrade.html %}
     {% include masthead.html %}
 
     {{ content }}
-
-    {% include scripts.html %}
 
   </body>
 </html>
