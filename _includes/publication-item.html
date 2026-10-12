@@ -3,9 +3,9 @@
     {% if publication.image %}<img src="{{ publication.image }}" alt="{{ publication.title }}">{% endif %}
   </div>
   <div class="publication-item__body">
-    {% if publication.title %}<h3>{{ publication.title }}</h3>{% endif %}
-    {% if publication.authors %}<p class="publication-item__authors">{{ publication.authors }}</p>{% endif %}
-    {% if publication.venue %}<p class="publication-item__venue">{{ publication.venue }}{% if publication.year %}, {{ publication.year }}{% endif %}</p>{% endif %}
+    {% if publication.title %}<h3>{{ publication.title | markdownify | remove: '<p>' | remove: '</p>' }}</h3>{% endif %}
+    {% if publication.authors %}<p class="publication-item__authors">{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</p>{% endif %}
+    {% if publication.venue %}<p class="publication-item__venue">{{ publication.venue | markdownify | remove: '<p>' | remove: '</p>' }}{% if publication.year %}, {{ publication.year }}{% endif %}</p>{% endif %}
     {% if publication.links %}<p class="publication-item__links">{% for link in publication.links %}<a href="{{ link.url }}">{{ link.label }}</a>{% unless forloop.last %} | {% endunless %}{% endfor %}</p>{% endif %}
   </div>
 </article>
