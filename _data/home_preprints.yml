@@ -1,0 +1,8 @@
+# Preprints shown on the homepage only.
+# Add or remove entries as needed. Images are optional.
+# - title: "Preprint title"
+#   authors: '**Hongyuan Zhang**, Other Authors'
+#   venue: "arXiv preprint"
+#   year: 2026
+#   image: ""
+#   links: []

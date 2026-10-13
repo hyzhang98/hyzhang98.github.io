@@ -9,6 +9,15 @@
   <a class="publication-more" href="{{ base_path }}/publications/">View full publication list →</a>
 </section>
 
+<section class="home-section home-preprints" id="preprints">
+  <h2>Recent Works</h2>
+  <div class="publication-list">
+    {% for publication in site.data.home_preprints %}
+      {% include publication-item.html publication=publication %}
+    {% endfor %}
+  </div>
+</section>
+
 <section class="home-section home-service" id="service">
   <h2>Part of Service</h2>
   {% for group in site.data.home_service %}
