@@ -8,14 +8,14 @@ redirect_from:
 ---
 I am currently a Postdoctoral Fellow at The University of Hong Kong (working with Prof. [Ping Luo](https://scholar.google.com/citations?user=aXdjxb4AAAAJ)). I received my Ph.D. degree from Northwestern Polytechnical University under the supervision of Prof. [Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ) and my B.Eng. degree from Xidian University.
 
-My research interests include representation learning, noise learning, multimodal learning, generative models, and embodied AI.
+My research interests include representation learning, multimodal understanding, and mulitimodal generation. I'm trying extending our techniques to embodied AI as well. Please feel free to contact me if you are interested in collaboration. I would be happy to discuss potential opportunities.
 
 <section class="research-interest" aria-labelledby="research-interest-title">
-  <h2 id="research-interest-title">Research Interest</h2>
+  <h2 id="research-interest-title">Research Interests</h2>
   <div class="research-interest__grid">
     <div><h3>Representation Learning</h3><ul><li>Multimodal Representation</li><li>Noise Learning</li></ul></div>
-    <div><h3>Multimodal Learning</h3><ul><li>Multimodal Understanding</li><li>Multimodal Generation</li></ul></div>
-    <div><h3>Physical AI</h3><ul><li>3D Computer Vision</li><li>Embodied AI</li></ul></div>
+    <div><h3>Multimodal Understanding</h3><ul><li>MLLM Post-Training</li><li>3D Vision Foundation Model</li></ul></div>
+    <div><h3>Multimodal Generation</h3><ul><li>Controllable Generation</li><li>Few-Step Generation</li></ul></div>
   </div>
 </section>
 

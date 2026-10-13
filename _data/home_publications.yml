@@ -19,3 +19,17 @@
   image: "images/OnPoKD.png"
   links: [https://www.sciencedirect.com/science/article/pii/S1566253526006883]
 
+- title: "Rectified Noise: A Generative Model Using Positive-incentive Noise"
+  authors: 'Zhenyu Gu, Yanchen Xu, Sida Huang, Yubin Guo, and **Hongyuan Zhang**<sup>\*</sup>'
+  venue: "Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), **oral**"
+  year: 2026
+  image: "images/RN.png"
+  links: [https://arxiv.org/pdf/2511.07911]
+
+- title: "Laytrol: Preserving Pretrained Knowledge in Layout Control for Multimodal Diffusion Transformers"
+  authors: 'Sida Huang, Siqi Huang, Ping Luo, and **Hongyuan Zhang**<sup>\*</sup>'
+  venue: "Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)"
+  year: 2026
+  image: "images/laytrol.png"
+  links: [https://arxiv.org/pdf/2511.07934]
+

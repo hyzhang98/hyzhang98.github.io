@@ -110,7 +110,7 @@ a:hover { color: #315da9; }
 .publication-list { display: grid; gap: 1.1rem; }
 .publication-item { display: grid; grid-template-columns: 150px minmax(0, 1fr); gap: 1rem; min-height: 95px; }
 .publication-item__image { display: flex; align-items: center; justify-content: center; width: 150px; height: 85px; border: 1px dashed #d8d8d8; background: #fff; overflow: hidden; }
-.publication-item__image img { display: block; width: 150px; height: 85px; object-fit: contain; object-position: center; }
+.publication-item__image img { display: block; width: 300px; height: 170px; object-fit: contain; object-position: center; }
 .publication-item__body h3 { margin: 0 0 .25rem; font-size: 1rem; font-weight: 400; }
 .publication-item__body p { margin: .18rem 0; font-size: .88rem; }
 .publication-item__authors { color: var(--muted); }
