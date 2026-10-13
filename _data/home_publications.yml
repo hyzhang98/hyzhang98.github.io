@@ -182,3 +182,35 @@
     - label: "code"
       url: 'https://github.com/hyzhang98/EPAGCL'
 
+- title: 'Towards Projected Clustering with Aggregated Mapping'
+  authors: '**Hongyuan Zhang**, Yanan Zhu, and Rui Zhang, '
+  venue: 'IEEE Transactions on Image Processing (**T-IP**)'
+  year: 2023
+  image: "images/projectedClustering.png"
+  links: 
+    - label: "paper"
+      url: "https://ieeexplore.ieee.org/document/10179275"
+    - label: "code"
+      url: 'https://github.com/hyzhang98/Projected-Clustering-with-Aggregated-Mapping'
+
+- title: 'Matrix Completion via Non-Convex Relaxation and Adaptive Correlation Learning'
+  authors: 'Xuelong Li, **Hongyuan Zhang**, and Rui Zhang, '
+  venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color=red>T-PAMI </font>**)'
+  year: 2023
+  image: "images/ncarl.png"
+  links: 
+    - label: "paper"
+      url: "https://arxiv.org/pdf/2203.02189"
+    - label: "code"
+      url: 'https://github.com/hyzhang98/NCARL'
+
+- title: 'Adaptive Graph Auto-Encoder for General Data Clustering'
+  authors: 'Xuelong Li, **Hongyuan Zhang**, and Rui Zhang, '
+  venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color=red>T-PAMI </font>**)'
+  year: 2022
+  image: "images/adagae.png"
+  links: 
+    - label: "paper"
+      url: "https://arxiv.org/pdf/2002.08648"
+    - label: "code"
+      url: 'https://github.com/hyzhang98/AdaGAE'

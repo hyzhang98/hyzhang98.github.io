@@ -5,7 +5,7 @@
   year: 2026
   image: "images/AHAP.png"
   links: 
-    - label: 'paper'
+    - label: 'arxiv'
       url: 'https://arxiv.org/pdf/2602.23951'
 
 - title: "Safeguarding Text-to-Image Generative Models Against Unauthorized Knowledge Distillation"
@@ -13,7 +13,7 @@
   year: 2026
   image: "images/waveGuard.png"
   links: 
-    - label: 'paper'
+    - label: 'arxiv'
       url: 'https://arxiv.org/pdf/2605.22060'
 
 - title: "Latent Noise Mask for Reducing Visual Redundancy in Multimodal Large Language Models"
@@ -21,5 +21,5 @@
   year: 2026
   image: "images/lens.png"
   links: 
-    - label: 'paper'
+    - label: 'arxiv'
       url: 'https://arxiv.org/pdf/2606.30168'
