@@ -1,8 +1,18 @@
 # Preprints shown on the homepage only.
 # Add or remove entries as needed. Images are optional.
+- title: "Multimodal Continual Learning with MLLMs from Multi-Scenario Perspectives"
+  authors: 'Kai Jiang, Siqi Huang, Xiangyu Chen, Jiawei Shao, **Hongyuan Zhang**<sup>*</sup>, Ping Luo, Xuelong Li<sup>*</sup>'
+  year: 2026
+  description: "The first cross-device continual multimodal understanding dataset and model"
+  image: "images/MSVQA.png"
+  links: 
+    - label: 'arxiv'
+      url: 'https://arxiv.org/pdf/2511.18507'
+      
 - title: "AHAP: Reconstructing Arbitrary Humans from Arbitrary Perspectives with Geometric Priors"
   authors: 'Xiaozhen Qiao, Wenjia Wang, Zhiyuan Zhao, Jiacheng Sun, Ping Luo, **Hongyuan Zhang**<sup>*</sup>, Xuelong Li<sup>*</sup>'
   year: 2026
+  description: "A feedforward framework for reconstructing arbitrary humans (and scene) from arbitrary camera perspectives"
   image: "images/AHAP.png"
   links: 
     - label: 'arxiv'
@@ -11,6 +21,7 @@
 - title: "Safeguarding Text-to-Image Generative Models Against Unauthorized Knowledge Distillation"
   authors: 'Yilan Gao, Sida Huang, **Hongyuan Zhang**<sup>*</sup>, Xuelong Li<sup>*</sup>'
   year: 2026
+  description: "A model trying preventing data distillation on text-to-image generation"
   image: "images/waveGuard.png"
   links: 
     - label: 'arxiv'
@@ -19,7 +30,10 @@
 - title: "Latent Noise Mask for Reducing Visual Redundancy in Multimodal Large Language Models"
   authors: 'Kai Jiang, Ruishu Zhu, Siqi Huang, **Hongyuan Zhang**<sup>*</sup>, Xuelong Li<sup>*</sup>'
   year: 2026
+  description: "A reasoning framework that empowers MLLMs to reason with cleaner visual cues via noise masking"
   image: "images/lens.png"
   links: 
     - label: 'arxiv'
       url: 'https://arxiv.org/pdf/2606.30168'
+
+
