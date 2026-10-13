@@ -4,4 +4,22 @@
   authors: 'Xiaozhen Qiao, Wenjia Wang, Zhiyuan Zhao, Jiacheng Sun, Ping Luo, **Hongyuan Zhang**<sup>*</sup>, Xuelong Li<sup>*</sup>'
   year: 2026
   image: "images/AHAP.png"
-  links: [https://arxiv.org/pdf/2602.23951]
+  links: 
+    - label: 'paper'
+      url: 'https://arxiv.org/pdf/2602.23951'
+
+- title: "Safeguarding Text-to-Image Generative Models Against Unauthorized Knowledge Distillation"
+  authors: 'Yilan Gao, Sida Huang, **Hongyuan Zhang**<sup>*</sup>, Xuelong Li<sup>*</sup>'
+  year: 2026
+  image: "images/waveGuard.png"
+  links: 
+    - label: 'paper'
+      url: 'https://arxiv.org/pdf/2605.22060'
+
+- title: "Latent Noise Mask for Reducing Visual Redundancy in Multimodal Large Language Models"
+  authors: 'Kai Jiang, Ruishu Zhu, Siqi Huang, **Hongyuan Zhang**<sup>*</sup>, Xuelong Li<sup>*</sup>'
+  year: 2026
+  image: "images/lens.png"
+  links: 
+    - label: 'paper'
+      url: 'https://arxiv.org/pdf/2606.30168'

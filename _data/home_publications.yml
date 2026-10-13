@@ -1,35 +1,184 @@
-# Replace or remove these entries to choose the papers shown on the homepage.
-# Keep image empty until you add a paper thumbnail.
-- title: "Data Augmentation of Contrastive Learning is Estimating Positive-incentive Noise"
-  authors: "**Hongyuan Zhang**, Yanchen Xu, Sida Huang, and Xuelong Li"
-  venue: "International Conference on Machine Learning (**ICML**)"
+# First/co-first and corresponding-author papers, in publications.md order.
+
+
+
+- title: 'Data Augmentation of Contrastive Learning is Estimating Positive-incentive Noise'
+  authors: '**Hongyuan Zhang**, Yanchen Xu, Sida Huang, and Xuelong Li'
+  venue: 'International Conference on Machine Learning (**ICML**)'
   year: 2026
   image: "images/PiNDA.png"
-  links: [https://openreview.net/pdf/afac6c0376a9905e6c60664fc297c15bfe2f462f.pdf]
-- title: "ViewMask-1-to-3: Multi-View Consistent Image Generation via Multimodal Discrete Diffusion Models"
+  links: 
+    - label: "paper"
+      url: "https://openreview.net/pdf/afac6c0376a9905e6c60664fc297c15bfe2f462f.pdf"
+    - label: "code"
+      url: "https://github.com/hyzhang98/PiNDA"
+
+- title: 'Variational Positive-incentive Noise: How Noise Benefits Models'
+  authors: '**Hongyuan Zhang**, Sida Huang, Yubin Guo, and Xuelong Li'
+  venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color=red>T-PAMI </font>**)'
+  year: 2025
+  image: "images/vpn.png"
+  links: 
+    - label: "paper"
+      url: "https://arxiv.org/pdf/2306.07651"
+    - label: "code"
+      url: 'https://github.com/hyzhang98/VPN'
+
+- title: 'Decouple Graph Neural Networks: Train Multiple Simple GNNs Simultaneously Instead of One'
+  authors: '**Hongyuan Zhang**, Yanan Zhu, and Xuelong Li'
+  venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color=red>T-PAMI </font>**)'
+  year: 2024
+  image: "images/sgnn.png"
+  links: 
+    - label: "paper"
+      url: "https://arxiv.org/pdf/2304.10126"
+    - label: "code"
+      url: 'https://github.com/hyzhang98/SGNN'
+
+- title: 'Non-Graph Data Clustering via O(n) Bipartite Graph Convolution'
+  authors: '**Hongyuan Zhang**, Jiankun Shi, Rui Zhang, and Xuelong Li'
+  venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color=red>T-PAMI </font>**)'
+  year: 2023
+  image: "images/anchorgae.png"
+  links: 
+    - label: "paper"
+      url: "https://arxiv.org/pdf/2111.06586v2"
+    - label: "code"
+      url: 'https://github.com/hyzhang98/AnchorGAE-torch'
+
+- title: 'CNN2GNN: How to Bridge CNN with GNN'
+  authors: 'Ziheng Jiao, **Hongyuan Zhang**<sup>*</sup>, and Xuelong Li<sup>*</sup>'
+  venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color=red>T-PAMI </font>**)'
+  year: 2025
+  image: "images/cnn2gnn.png"
+  links: 
+    - label: "paper"
+      url: "https://arxiv.org/pdf/2404.14822"
+
+- title: 'ViewMask-1-to-3: Multi-View Consistent Image Generation via Multimodal Discrete Diffusion Models'
   authors: 'Ruishu Zhu, Zhihao Huang, Jiacheng Sun, Ping Luo, **Hongyuan Zhang**<sup>*</sup>, and Xuelong Li<sup>*</sup>'
-  venue: "International Conference on Machine Learning (**ICML**)"
+  venue: 'International Conference on Machine Learning (**ICML**)'
   year: 2026
   image: "images/ViewMask.png"
-  links: [https://openreview.net/pdf?id=vayyDtdtWX]
-- title: "On-Policy Distillation for Vision-Language Model Adaptation: An Effective Paradigm on Low-Quality Multimodal Data"
-  authors: "**Hongyuan Zhang**<sup>+</sup>, Xianda Guo<sup>+</sup>, Yanlun Peng<sup>+</sup>, Qianlong Yang, Yubin Guo, Pinhan Fu, Mulin Chen, Xiaozhen Qiao, and Ping Luo"
-  venue: "Information Fusion"
+  links: 
+    - label: "paper"
+      url: "https://openreview.net/pdf?id=vayyDtdtWX"
+
+- title: 'On-Policy Distillation for Vision-Language Model Adaptation: An Effective Paradigm on Low-Quality Multimodal Data'
+  authors: '**Hongyuan Zhang**<sup>+</sup>, Xianda Guo<sup>+</sup>, Yanlun Peng<sup>+</sup>, Qianlong Yang, Yubin Guo, Pinhan Fu, Mulin Chen, Xiaozhen Qiao, and Ping Luo'
+  venue: 'Information Fusion'
   year: 2026
   image: "images/OnPoKD.png"
-  links: [https://www.sciencedirect.com/science/article/pii/S1566253526006883]
+  links: 
+    - label: "paper"
+      url: "https://arxiv.org/pdf/2609.10321"
 
-- title: "Rectified Noise: A Generative Model Using Positive-incentive Noise"
+- title: 'Rectified Noise: A Generative Model Using Positive-incentive Noise'
   authors: 'Zhenyu Gu, Yanchen Xu, Sida Huang, Yubin Guo, and **Hongyuan Zhang**<sup>*</sup>'
-  venue: "Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), **oral**"
+  venue: 'Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), <font color=red>oral</font>'
   year: 2026
   image: "images/RN.png"
-  links: [https://arxiv.org/pdf/2511.07911]
+  links: 
+    - label: "paper"
+      url: "https://arxiv.org/pdf/2511.07911"
+    - label: "code"
+      url: 'https://github.com/simulateuser538/Rectified-Noise'
 
-- title: "Laytrol: Preserving Pretrained Knowledge in Layout Control for Multimodal Diffusion Transformers"
+
+- title: 'Laytrol: Preserving Pretrained Knowledge in Layout Control for Multimodal Diffusion Transformers'
   authors: 'Sida Huang, Siqi Huang, Ping Luo, and **Hongyuan Zhang**<sup>*</sup>'
-  venue: "Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)"
+  venue: 'Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)'
   year: 2026
   image: "images/laytrol.png"
-  links: [https://arxiv.org/pdf/2511.07934]
+  links: 
+    - label: "paper"
+      url: "https://arxiv.org/pdf/2511.07934"
+    - label: "code"
+      url: 'https://github.com/HHHHStar/Laytrol'
+
+- title: 'Explore How To Inject Beneficial Noise in MLLMs'
+  authors: 'Ruishu Zhu, Sida Huang, Ziheng Jiao, and **Hongyuan Zhang**<sup>*</sup>'
+  venue: 'Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)'
+  year: 2026
+  image: "images/mung.png"
+  links: 
+    - label: "paper"
+      url: "https://arxiv.org/pdf/2511.12917"
+    - label: "code"
+      url: 'https://github.com/zhuruishu0848/MuNG'
+
+- title: 'CoLM: Collaborative Large Models via A Client-Server Paradigm'
+  authors: 'Siqi Huang, Sida Huang, and **Hongyuan Zhang**<sup>*</sup>'
+  venue: 'Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), <font color=red>oral</font>'
+  year: 2026
+  image: "images/colm.png"
+  links: 
+    - label: "paper"
+      url: "https://arxiv.org/pdf/2511.06991"
+
+- title: 'Mixture of Noise for Pre-Trained Model-Based Class-Incremental Learning'
+  authors: 'Kai Jiang, Zhengyan Shi, Dell Zhang, **Hongyuan Zhang**<sup>*</sup>, and Xuelong Li<sup>*</sup>'
+  venue: 'The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**)'
+  year: 2025
+  image: "images/min.png"
+  links: 
+    - label: "paper"
+      url: "https://openreview.net/pdf?id=wI6oHXeTR8"
+    - label: "code"
+      url: 'https://github.com/ASCIIJK/MiN-NeurIPS2025'
+
+- title: 'NFIG: Multi-Scale Autoregressive Image Generation via Frequency Ordering'
+  authors: 'Zhihao Huang, Xi Qiu, Yukuo Ma, Yifu Zhou, **Hongyuan Zhang**<sup>*</sup>, Chi Zhang<sup>*</sup>, and Xuelong Li<sup>*</sup>'
+  venue: 'The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**)'
+  year: 2025
+  image: "images/nfig.png"
+  links: 
+    - label: "paper"
+      url: "https://neurips.cc/media/neurips-2025/Slides/116151.pdf"
+    - label: "code"
+      url: 'https://github.com/Pride-Huang/NFIG'
+
+- title: 'Learn Positive-incentive Noise As Graph Augmentation'
+  authors: 'Siqi Huang, Yanchen Xu, **Hongyuan Zhang**<sup>*</sup>, and Xuelong Li<sup>*</sup>'
+  venue: 'International Conference on Machine Learning (**ICML**)'
+  year: 2025
+  image: "images/pingda.png"
+  links: 
+    - label: "paper"
+      url: "https://openreview.net/pdf?id=iilSR3cKTx"
+    - label: "code"
+      url: 'https://github.com/h-4777/PiNGDA'
+
+- title: 'Adv-CPG: Facial Adversarial Attacks for Customized Portrait Generation'
+  authors: 'Junying Wang, **Hongyuan Zhang**, and Yuan Yuan'
+  venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), <font color=red>oral</font>'
+  year: 2025
+  image: "images/adv-cpg.png"
+  links: 
+    - label: "paper"
+      url: "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Adv-CPG_A_Customized_Portrait_Generation_Framework_with_Facial_Adversarial_Attacks_CVPR_2025_paper.pdf"
+    - label: "code"
+      url: 'https://github.com/JunyingWang959/Adv-CPG'
+
+- title: 'Enhance Vision-Language Alignment with Noise'
+  authors: 'Sida Huang, **Hongyuan Zhang**<sup>*</sup>, and Xuelong Li<sup>*</sup>'
+  venue: 'Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)'
+  year: 2025
+  image: "images/pini.png"
+  links: 
+    - label: "paper"
+      url: "https://arxiv.org/pdf/2412.10817"
+    - label: "code"
+      url: 'https://github.com/hyzhang98/PiNI'
+
+- title: 'Why Does Dropping Edges Usually Outperform Adding Edges in Graph Contrastive Learning?'
+  authors: 'Yanchen Xu, Siqi Huang, **Hongyuan Zhang**<sup>*</sup>, and Xuelong Li<sup>*</sup>'
+  venue: 'Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)'
+  year: 2025
+  image: "images/epagcl.png"
+  links: 
+    - label: "paper"
+      url: "https://arxiv.org/pdf/2412.08128"
+    - label: "code"
+      url: 'https://github.com/hyzhang98/EPAGCL'
 
