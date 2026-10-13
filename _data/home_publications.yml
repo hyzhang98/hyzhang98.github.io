@@ -1,20 +1,21 @@
 # Replace or remove these entries to choose the papers shown on the homepage.
 # Keep image empty until you add a paper thumbnail.
-- title: "On-Policy Distillation for Vision-Language Model Adaptation: An Effective Paradigm on Low-Quality Multimodal Data"
-  authors: "**Hongyuan Zhang**<sup>+</sup>, Xianda Guo<sup>+</sup>, Yanlun Peng<sup>+</sup>, Qianlong Yang, Yubin Guo, Pinhan Fu, Mulin Chen, Xiaozhen Qiao, and Ping Luo"
-  venue: "Information Fusion"
-  year: 2026
-  image: ""
-  links: []
-- title: "Data Augmentation of Contrastive Learning is Estimating Positive-incentive Noise, 2026."
+- title: "Data Augmentation of Contrastive Learning is Estimating Positive-incentive Noise"
   authors: "**Hongyuan Zhang**, Yanchen Xu, Sida Huang, and Xuelong Li"
   venue: "International Conference on Machine Learning (**ICML**)"
   year: 2026
-  image: ""
-  links: []
+  image: "images/PiNDA.png"
+  links: [https://openreview.net/pdf/afac6c0376a9905e6c60664fc297c15bfe2f462f.pdf]
 - title: "ViewMask-1-to-3: Multi-View Consistent Image Generation via Multimodal Discrete Diffusion Models"
   authors: 'Ruishu Zhu, Zhihao Huang, Jiacheng Sun, Ping Luo, **Hongyuan Zhang**<sup>*</sup>, and Xuelong Li<sup>*</sup>'
   venue: "International Conference on Machine Learning (**ICML**)"
   year: 2026
-  image: ""
-  links: []
+  image: "images/ViewMask.png"
+  links: [https://openreview.net/pdf?id=vayyDtdtWX]
+- title: "On-Policy Distillation for Vision-Language Model Adaptation: An Effective Paradigm on Low-Quality Multimodal Data"
+  authors: "**Hongyuan Zhang**<sup>+</sup>, Xianda Guo<sup>+</sup>, Yanlun Peng<sup>+</sup>, Qianlong Yang, Yubin Guo, Pinhan Fu, Mulin Chen, Xiaozhen Qiao, and Ping Luo"
+  venue: "Information Fusion"
+  year: 2026
+  image: "images/OnPoKD.png"
+  links: [https://www.sciencedirect.com/science/article/pii/S1566253526006883]
+
