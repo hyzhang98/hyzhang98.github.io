@@ -1,8 +1,7 @@
 # Preprints shown on the homepage only.
 # Add or remove entries as needed. Images are optional.
-# - title: "Preprint title"
-#   authors: '**Hongyuan Zhang**, Other Authors'
-#   venue: "arXiv preprint"
-#   year: 2026
-#   image: ""
-#   links: []
+- title: "AHAP: Reconstructing Arbitrary Humans from Arbitrary Perspectives with Geometric Priors"
+  authors: 'Xiaozhen Qiao, Wenjia Wang, Zhiyuan Zhao, Jiacheng Sun, Ping Luo, **Hongyuan Zhang**<sup>*</sup>, Xuelong Li<sup>*</sup>'
+  year: 2026
+  image: "Images AHAP"
+  links: [https://arxiv.org/pdf/2602.23951]
