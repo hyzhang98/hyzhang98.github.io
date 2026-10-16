@@ -21,6 +21,7 @@ My research interests include representation learning, multimodal understanding,
 
 <h2 id="news">News</h2>
 <div class="news-scroll" aria-label="News" markdown="1">
+- [Oct. 2026] One paper is accepted by IEEE Transactions on Multimedia. 
 - [Sep. 2026] One paper is accepted by Information Fusion. 
 - [Aug. 2026] One paper is accepted by  Pattern Recognition.
 - [Aug. 2026] We will organize a Special Session on ICASSP 2027. 
